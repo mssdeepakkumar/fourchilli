@@ -1,0 +1,37 @@
+.dcjq-mega-menu ul, .dcjq-mega-menu ul li {list-style: none;}
+.dcjq-mega-menu ul.menu {position: relative; padding: 0; margin: 0;}
+.dcjq-mega-menu ul li ul {display: none;}
+.dcjq-mega-menu .sub {display: none;}
+.dcjq-mega-menu .sub ul {display: block;}
+
+#item_main_menus {font: normal 12px Arial, sans-serif; line-height: 16px;}
+#item_main_menus ul, #item_main_menus ul, #item_main_menus ul li {margin: 0; padding: 0; border: none;}
+#item_main_menus ul.menu {width: 100%; height: 40px; position: relative;}
+#item_main_menus ul li {float: left; margin: 0; padding: 0; font-size: 13px;  }
+#item_main_menus ul li a:link , #item_main_menus ul li a:visited  {float: left; display: block;  padding: 12px 38px 12px 25px; color:#fff;   text-decoration: none;}
+#item_main_menus ul li a:hover { color:#333; background:white;}
+#item_main_menus ul li a.dc-mega {position: relative;}
+#item_main_menus ul li a .dc-mega-icon {display: block; position: absolute; top: 18px; right: 15px; width: 8px; height: 6px; background: url(skins/images/arrow.png) no-repeat 0 100%;}
+
+#item_main_menus ul li a:hover { color:#333 }
+
+#item_main_menus ul li.mega-hover a {background-position: 100% -40px; color: #333; background:white; text-shadow: none;}
+#item_main_menus ul li.mega-hover a .dc-mega-icon {background-position: 0 100%;}
+#item_main_menus ul li .sub-container {position: absolute; background: url(skins/images/bg_sub_left.png) no-repeat 0 100%; padding-left: 20px; margin-left: -3px;}
+#item_main_menus ul li .sub {background: url(skins/images/bg_sub.png) no-repeat 100% 100%; padding: 20px 20px 20px 10px;}
+#item_main_menus ul li .sub-container.mega .sub {padding: 20px 20px 10px 0;}
+#item_main_menus ul.full-width li .sub-container.mega .sub {margin-right: -2px;}
+#item_main_menus ul li .sub .row {width: 100%; overflow: hidden; clear: both;}
+#item_main_menus ul li .sub li {list-style: none; float: none; width: 170px; font-size: 1em; font-weight: normal;}
+#item_main_menus ul li .sub li.mega-hdr {margin: 0 10px 10px 0; float: left;}
+#item_main_menus ul li .sub li.mega-hdr.last {margin-right: 0;}
+#item_main_menus ul li .sub a {background: none; border: none; text-shadow: none; color: #111; padding: 7px 10px; display: block; float: none; text-decoration: none; font-size: 0.9em;}
+#item_main_menus ul li .sub li.mega-hdr a.mega-hdr-a {padding: 5px 5px 5px 15px; margin-bottom: 5px; background: #0084C1 url(skins/images/bg_mega_hdr.png) no-repeat 0 0; text-transform: uppercase; font-weight: bold; color: #fff;  }
+#item_main_menus ul li .sub li.mega-hdr a.mega-hdr-a:hover {color: #fff; text-shadow: none; background:#00699B}
+#item_main_menus ul .sub li.mega-hdr li a {padding: 4px 5px 4px 20px; background: url(skins/images/arrow_off.png) no-repeat 5px 8px; font-weight: normal;}
+#item_main_menus ul .sub li.mega-hdr li a:hover {color: #a32403; background: #efefef url(skins/images/arrow_on.png) no-repeat 5px 8px;}
+#item_main_menus ul .sub ul li {padding-right: 0;}
+#item_main_menus ul li .sub-container.non-mega .sub {padding: 20px 20px 20px 0;}
+#item_main_menus ul li .sub-container.non-mega li {padding: 0; width: 190px; margin: 0;}
+#item_main_menus ul li .sub-container.non-mega li a {padding: 7px 5px 7px 22px; background: url(skins/images/arrow_off.png) no-repeat 7px 10px;}
+#item_main_menus ul li .sub-container.non-mega li a:hover {color: #a32403; background: #efefef url(skins/images/arrow_on.png) no-repeat 7px 10px;}

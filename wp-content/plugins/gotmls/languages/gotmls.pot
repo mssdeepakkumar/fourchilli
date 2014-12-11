@@ -1,0 +1,344 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Eli Scheetz <eli@gotmls.net>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GOTMLS\n"
+"Report-Msgid-Bugs-To: eli@gotmls.net\n"
+"POT-Creation-Date: 2014-10-04 17:23-1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, php-format
+msgid "Upgrade to %s now!"
+msgstr ""
+
+msgid "First Name is a required field!"
+msgstr ""
+
+msgid "Last Name is a required field!"
+msgstr ""
+
+msgid "Email Address is a required field!"
+msgstr ""
+
+msgid "Your WordPress Site URL is a required field!"
+msgstr ""
+
+msgid "Plugin Installation Key is a required field!"
+msgstr ""
+
+msgid "Submitting Registration ..."
+msgstr ""
+
+msgid "Searching for updates ..."
+msgstr ""
+
+msgid "Download new definitions!"
+msgstr ""
+
+msgid "If you have not already registered your Key then register now and get instant access to definition updates.<p>*All fields are required and I will NOT share your registration information with anyone.</p>"
+msgstr ""
+
+msgid "Your Full Name:"
+msgstr ""
+
+msgid "A password will be e-mailed to this address:"
+msgstr ""
+
+msgid "Your WordPress Site URL:"
+msgstr ""
+
+msgid "Plugin Installation Key:"
+msgstr ""
+
+msgid "Plugin Links"
+msgstr ""
+
+msgid "Make a Donation with PayPal"
+msgstr ""
+
+msgid "Main Menu Item placed below <b>Comments</b> and above <b>Appearance</b>"
+msgstr ""
+
+msgid "Main Menu Item placed below <b>Settings</b>"
+msgstr ""
+
+msgid "Sub-Menu inside the <b>Tools</b> Menu Item"
+msgstr ""
+
+msgid "ONLY SHOW for <b>Network Admins</b>"
+msgstr ""
+
+msgid "Only Scan These Folders:"
+msgstr ""
+
+msgid "What to scan:"
+msgstr ""
+
+msgid "Scan Depth:"
+msgstr ""
+
+msgid "how far do you want to drill down from your starting directory?"
+msgstr ""
+
+msgid "-1 is infinite depth"
+msgstr ""
+
+msgid "What to look for:"
+msgstr ""
+
+msgid "Download Definition Updates to Use this feature"
+msgstr ""
+
+msgid "Registration of your Installation Key is required for this feature"
+msgstr ""
+
+msgid "Custom RegExp:"
+msgstr ""
+
+msgid "For very advanced users only. Do not use this without talking to Eli first. If used incorrectly you could easily break your site."
+msgstr ""
+
+msgid "<b>Skip files with the following extentions:</b> (a comma separated list of file extentions to be excluded from the scan)"
+msgstr ""
+
+msgid "<b>Skip directories with the following names:</b> (a comma separated list of folders to be excluded from the scan)"
+msgstr ""
+
+msgid "Menu Item Placement Options"
+msgstr ""
+
+#, php-format
+msgid "Another Plugin or Theme is using '%s' to handle output buffers. <br />This prevents actively outputing the buffer on-the-fly and will severely degrade the performance of this (and many other) Plugins. <br />Consider disabling caching and compression plugins (at least during the scanning process)."
+msgstr ""
+
+msgid "Scanned Files"
+msgstr ""
+
+msgid "Selected Folders"
+msgstr ""
+
+msgid "Scanned Folders"
+msgstr ""
+
+msgid "Skipped Folders"
+msgstr ""
+
+msgid "Skipped Files"
+msgstr ""
+
+msgid "Read/Write Errors"
+msgstr ""
+
+msgid "Quarantined Files"
+msgstr ""
+
+msgid "Potential Threats"
+msgstr ""
+
+msgid "WP-Login Vulnerability "
+msgstr ""
+
+msgid "Scan Complete!"
+msgstr ""
+
+msgid "You are not currently scanning for this type of threat!"
+msgstr ""
+
+msgid "Automatically Fix SELECTED Files Now"
+msgstr ""
+
+msgid "Scan Details:"
+msgstr ""
+
+msgid "Restore SELECTED files from Quarantine"
+msgstr ""
+
+msgid "Are you sure you want to overwrite the previously cleaned files with the selected files in the Quarantine?"
+msgstr ""
+
+msgid "Delete SELECTED files from Quarantine"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete the selected files in the Quarantine?"
+msgstr ""
+
+msgid "<p><b>The following items have been found to contain malicious code, they have been cleaned, and the original infected file contents have been saved here in the Quarantine. The code is safe here and you do not need to do anything further with these files.</b></p> FYI - these files are found in:"
+msgstr ""
+
+msgid "No Items in Quarantine"
+msgstr ""
+
+msgid "NOTE: These are probably not malicious scripts (but it's a good place to start looking <u>IF</u> your site is infected and no Known Threats were found)."
+msgstr ""
+
+msgid "NOTE: Your WordPress Login page is susceptible to a brute-force attack (just like any other login page). These types of attacks are becoming more prevalent these days and can sometimes cause your server to become slow or unresponsive, even if the attacks do not succeed in gaining access to your site. Applying this patch will block access to the WordPress Login page whenever this type of attack is detected. For more information on this subject"
+msgstr ""
+
+msgid "read my blog"
+msgstr ""
+
+msgid "The Quick Scan was unable to finish because of a shortage of memory or a problem accessing a file. Please try using the Complete Scan, it is slower but it will handle these errors better and continue scanning the rest of the files."
+msgstr ""
+
+msgid "Completed!"
+msgstr ""
+
+msgid "Starting Scan ..."
+msgstr ""
+
+msgid "Last Scan Status"
+msgstr ""
+
+#, php-format
+msgid "The file %s does not exist."
+msgstr ""
+
+#, php-format
+msgid "You could <a %s>try viewing the quarantined backup file</a>."
+msgstr ""
+
+msgid "The file must have already been delete."
+msgstr ""
+
+msgid "Are you sure this file is not infected and you want to ignore it in future scans?"
+msgstr ""
+
+msgid "Potential threats in file:"
+msgstr ""
+
+#, php-format
+msgid "Because some threats were automatically fixed we need to check to make sure the removal did not break your site. If this stays Red and the frame below does not load please <a %s>revert the changes</a> made during the automated fix process."
+msgstr ""
+
+msgid "Never mind, it worked!"
+msgstr ""
+
+msgid "Nothing Selected to be Changed!"
+msgstr ""
+
+msgid "Done!"
+msgstr ""
+
+msgid "Failed to list files in directory!"
+msgstr ""
+
+msgid "Run Complete Scan"
+msgstr ""
+
+msgid "Run Quick Scan"
+msgstr ""
+
+msgid "View Quarantine"
+msgstr ""
+
+msgid "Tested your site. It appears we didn't break anything"
+msgstr ""
+
+#, php-format
+msgid "This Plugin requires WordPress version %s or higher"
+msgstr ""
+
+msgid "Scan Settings"
+msgstr ""
+
+msgid "Loading, Please Wait ..."
+msgstr ""
+
+msgid "If this is taking too long, click here."
+msgstr ""
+
+msgid "Could not find server!"
+msgstr ""
+
+msgid "Plugin Updates for WP"
+msgstr ""
+
+msgid "Definition Updates"
+msgstr ""
+
+msgid "Please make a donation for the use of this wonderful feature!"
+msgstr ""
+
+msgid "htaccess Threats"
+msgstr ""
+
+msgid "TimThumb Exploits"
+msgstr ""
+
+msgid "Backdoor Scripts"
+msgstr ""
+
+msgid "Known Threats"
+msgstr ""
+
+msgid "an unknown file"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+#, php-format
+msgid "<b>Headers already sent</b> in %1$s on line %2$s.<br />This is not a good sign, it may just be a poorly written plugin but Headers should not have been sent at this point.<br />Check the code in the above mentioned file to fix this problem."
+msgstr ""
+
+msgid "<b>Session not found</b>, some functionality may be diminished.<br />If you are getting this error consistently it may mean that this site is unable to maintain a persistent session.<br />Check with your hosting provider or see if you can enable sessions on this site."
+msgstr ""
+
+msgid "Failed to read file contents!"
+msgstr ""
+
+msgid "Empty file!"
+msgstr ""
+
+msgid "Deleted!"
+msgstr ""
+
+msgid "Restored!"
+msgstr ""
+
+msgid "Restore Failed!"
+msgstr ""
+
+msgid "Already Fixed!"
+msgstr ""
+
+#, php-format
+msgid "Preparing %s"
+msgstr ""
+
+#, php-format
+msgid "Scanning %s"
+msgstr ""
+
+#, php-format
+msgid "Scanned %s"
+msgstr ""
+
+msgid "Skipped because of file extention!"
+msgstr ""
+
+msgid "Failed to determine file size!"
+msgstr ""
+
+msgid "Skipped because of file size!"
+msgstr ""
+
+msgid "Failed to read directory!"
+msgstr ""
+
+#, php-format
+msgid "Skipped because of file size (%1$s bytes) or file extention (%2$s)!"
+msgstr ""
+
+msgid "Failed to read file!"
+msgstr ""

@@ -1,0 +1,4307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Walleto\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-13 22:07+0200\n"
+"PO-Revision-Date: 2013-09-13 22:07+0200\n"
+"Last-Translator: sitemile <sitemile@sitemile.com>\n"
+"Language-Team: sitemile.com <sitemile@sitemile.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\andrei\\Desktop\\sitemile_themes\\Walleto\\\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: C:\\Users\\andrei\\Desktop\\sitemile_themes\\Walleto\n"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/404.php:33
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/404.php:35
+msgid ""
+"The requested page cannot be found. Maybe your item has not been approved "
+"yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive-product.php:73
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/tag.php:74
+msgid "All Posted Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive-product.php:74
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/tag.php:75
+#, php-format
+msgid "Latest Posted Products in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive-product.php:128
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/tag.php:129
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/taxonomy.php:130
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/shops.php:106
+msgid "No items posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive-shop.php:77
+msgid "All Shops"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive-shop.php:78
+#, php-format
+msgid "All Shops in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive-shop.php:132
+msgid "No shops yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive.php:41
+#, php-format
+msgid "Daily Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive.php:43
+#, php-format
+msgid "Monthly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive.php:45
+#, php-format
+msgid "Yearly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/archive.php:47
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:24
+msgid "Begin to search by typing here..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:351
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2568
+msgid "Select"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:852
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:187
+msgid "Shop Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:895
+msgid "Posted in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:902
+msgid "Views"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:906
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3688
+msgid "Price:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:1002
+msgid "Posted on"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:1002
+msgid "by"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:1008
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2087
+msgid "Read More"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2027
+#, php-format
+msgid "Posted on %s by <a href='%s'>%s</a>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2028
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2038
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:154
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:287
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:51
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:51
+msgid "Quantity"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2043
+msgid "Was bought"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2047
+#, php-format
+msgid "%s times"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2053
+msgid "Status"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2054
+msgid "Active"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2054
+msgid "Paused"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2063
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:163
+#, php-format
+msgid "Price: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2074
+msgid "Your product is awaiting admin moderation."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2078
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2104
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/delete_product.php:25
+msgid "Delete Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2088
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2868
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:217
+msgid "Edit Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2094
+msgid "Pause Selling"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2100
+msgid "Activate Selling"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2168
+msgid "Membership Expires"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2169
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2185
+msgid "Featured"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2170
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2186
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2184
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:174
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:57
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:116
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:174
+msgid "Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2207
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2470
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5152
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5536
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5787
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6157
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/activate_selling.php:95
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/delete_product.php:95
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/mark_shipped.php:140
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:71
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:72
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:70
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:71
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pause_selling.php:95
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2208
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2470
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5152
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5536
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5787
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6157
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/activate_selling.php:96
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/delete_product.php:96
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/mark_shipped.php:141
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:71
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:72
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:70
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:71
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pause_selling.php:96
+msgid "No"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2221
+msgid "Expired"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2864
+msgid "Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2865
+msgid "Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2866
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2869
+msgid "Add New Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2867
+msgid "New Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2870
+msgid "Search Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2891
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/top-main-menu.php:38
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/shops.php:59
+msgid "Shops"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2892
+msgid "Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2893
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2896
+msgid "Add New Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2894
+msgid "New Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2895
+msgid "Edit Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2897
+msgid "Search Shops"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2915
+msgid "Product Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:2918
+msgid "Shop Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3130
+msgid "Buy Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3214
+msgid "Expore this Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3276
+msgid "Add to Cart"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3693
+msgid "Quantity:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3698
+msgid "Shipping:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3704
+msgid "Featured:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:3710
+msgid "Paused/Hidden:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4004
+msgid "Shop Membership"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4179
+msgid "Shop Facebook:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4184
+msgid "Shop Twitter:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4191
+#, fuzzy
+msgid "Contact Info:"
+msgstr "Contact Lawyers"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4197
+msgid "Shop Policies:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4218
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4220
+msgid "The sidebar area of the single blog post"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4231
+msgid "Walleto - Stretch Wide MainPage Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4233
+msgid ""
+"This sidebar is site wide stretched in home page, just under the slider/menu."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4243
+msgid "Other Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4245
+msgid "The sidebar area of any other page than the defined ones"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4256
+msgid "Home Page Sidebar - Right"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4258
+msgid "The right sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4269
+msgid "Home Page Sidebar - Left"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4271
+msgid "The left sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4281
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4283
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4292
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4294
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4303
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4305
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4314
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4316
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4326
+msgid "Walleto - Product Single Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4328
+msgid "The sidebar of the single product page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4336
+msgid "Walleto - Shop Single Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4338
+msgid "The sidebar of the single shop page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4347
+msgid "Walleto - HomePage Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4349
+msgid "The sidebar for the main page, just under the slider."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4480
+msgid "See Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4481
+msgid "Pay This"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4505
+msgid "Waiting for seller to ship."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4544
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4241
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4304
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4369
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4454
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4542
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4631
+msgid "Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4545
+msgid "Mark Shipped"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4552
+#, php-format
+msgid "Buyer Shipping Address: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4571
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4672
+#, fuzzy, php-format
+msgid "Contact Buyer: %s"
+msgstr "Contact Lawyers"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4607
+#, php-format
+msgid "Paid on <br/> %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4622
+#, php-format
+msgid "You shipped this order on: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4623
+msgid "Order Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4653
+#, php-format
+msgid "Purchased on <br/> %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4671
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4707
+msgid "View Order Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4701
+#, php-format
+msgid "Shipped on: %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4775
+msgid "My Account Menu"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4778
+msgid "My Account Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4779
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:129
+msgid "My Shop Setup"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4780
+msgid "Finances"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4781
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:90
+msgid "Private Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4782
+msgid "Personal Info"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4783
+msgid "Reviews/Feedback"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4789
+msgid "My Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4812
+msgid "Sell New Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4813
+msgid "Active Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4814
+msgid "Out of Stock Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4815
+#, php-format
+msgid "Awaiting Payments %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4816
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:33
+msgid "Awaiting Shipping"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4817
+msgid "Paid and Shipped"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4840
+msgid "My Purchases"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4843
+msgid "All Orders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4844
+#, php-format
+msgid "Outstanding Payments %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4845
+#, php-format
+msgid "Not Shipped Orders %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4846
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_items.php:33
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_orders.php:33
+msgid "Shipped Orders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4906
+msgid "12 Months"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/functions.php:4907
+msgid "1 Month"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:54
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:378
+msgid "Remove from watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:55
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:383
+msgid "Add to watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:200
+msgid "Wp-Admin"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:223
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/top-main-menu.php:36
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:134
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:469
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:140
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:180
+msgid "Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:249
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/watchlist.php:32
+msgid "Watch List"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:256
+msgid "Sell Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:261
+msgid "Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:271
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/top-main-menu.php:39
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:90
+msgid "Advanced Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:285
+msgid "MyAccount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:286
+msgid "Log Out"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:296
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:136
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:471
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:78
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:90
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:136
+msgid "Register"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:297
+msgid "Log In"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/header.php:330
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4426
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4513
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4601
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4775
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6625
+msgid "Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/latest-posted-products.php:18
+msgid "Latest Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/latest-posted-products.php:79
+msgid "Sorry, there are no posted products yet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:116
+msgid "Item Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:128
+msgid "Item Other Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:136
+msgid "There are no other details defined for this item."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:173
+#, php-format
+msgid "Shipping: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:180
+#, php-format
+msgid "Available quantity: %s item(s)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:195
+msgid "Add To Cart"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:198
+msgid "Unavailable product. Quantity is 0."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:213
+msgid "Product Owner"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:215
+msgid "You are the owner of this product. See your options below."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:227
+msgid "Product Views"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:229
+#, php-format
+msgid "This product has been viewed %s times."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:252
+msgid "About Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:308
+msgid "Explore this Shop"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:318
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-shop.php:237
+msgid "About Shop Owner"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:344
+#, fuzzy
+msgid "Contact Seller"
+msgstr "Contact Lawyers"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:394
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:196
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:317
+msgid "Other Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-product.php:429
+msgid "There are no other details."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-shop.php:107
+msgid "Shop Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-shop.php:118
+msgid "Shop Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-shop.php:169
+msgid "There are no products in this shop yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-shop.php:195
+msgid "Shop Social Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/single-shop.php:214
+msgid "There are no social details."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/taxonomy.php:73
+msgid "All Posted Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/taxonomy.php:74
+#, php-format
+msgid "Latest Posted Items in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/top-main-menu.php:37
+msgid "All Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/top-main-menu.php:40
+msgid "Show All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:44
+msgid "Payment received from site admin"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:58
+msgid "Payment subtracted by site admin"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:75
+msgid "Walleto"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:76
+msgid "Site Summary"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:77
+msgid "General Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:78
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:402
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:562
+msgid "Email Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:79
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5535
+msgid "Pricing Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:81
+msgid "Custom Fields"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:82
+msgid "Images Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:83
+msgid "Payment Gateways"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:86
+msgid "Withdrawals"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:88
+msgid "User Balances"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:89
+msgid "User Reviews"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:91
+msgid "InSite Transactions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:92
+msgid "Orders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:94
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6152
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:95
+msgid "Advertising"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:97
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5786
+msgid "Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:98
+msgid "Info Stuff"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:221
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:358
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3129
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3321
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3517
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6577
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:175
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:123
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:135
+msgid "Previous"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:241
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:378
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3150
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3342
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3538
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6597
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:194
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:142
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:154
+msgid "Next"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:420
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:428
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:436
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:445
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:454
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:463
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:472
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:483
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:492
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:501
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:510
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:519
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:529
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:548
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2518
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2527
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2537
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2549
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2560
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5176
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5184
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5192
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5202
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5210
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5572
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5598
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5614
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5624
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5801
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5809
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6008
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6016
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6024
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6032
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6176
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6183
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6190
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6198
+msgid "Settings saved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:563
+msgid "New User Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:564
+msgid "New User Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:566
+msgid "Post Item (Not Approved) Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:567
+msgid "Post Item (Auto Approved) Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:568
+msgid "Post Item (Not Approved) Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:569
+msgid "Post Item (Auto Approved) Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:574
+msgid "Private Message Received"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:575
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4718
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4798
+msgid "Rated User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:579
+msgid "Won Item(winner)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:580
+msgid "Won Item(losers)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:585
+msgid "Buy Item(Buyer)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:586
+msgid "Buy Item(Seller)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:588
+msgid "Shop Membership Expired"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:590
+msgid "Paid Item(Buyer)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:591
+msgid "Paid Item(Seller)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:594
+msgid "Shipped Item(Buyer)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:595
+msgid "Shipped Item(Seller)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:598
+msgid "Review To Award"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:599
+msgid "Review Received"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:602
+msgid "Offer Received"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:603
+msgid "Offer Accepted"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:604
+msgid "Offer Rejected"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:606
+msgid "Counter Offer Received"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:607
+msgid "Counter Offer Accepted"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:608
+msgid "Counter Offer Rejected"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:618
+#, fuzzy
+msgid ""
+"This email will be received by the buyer, after he buys an item (buy now "
+"auction). \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:629
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:695
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:761
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:827
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:894
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:960
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1026
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1093
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1158
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1224
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1288
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1353
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1417
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1481
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1547
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1612
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1676
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1739
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1802
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1866
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1936
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2004
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2067
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2131
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2195
+msgid "Enable this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:635
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:701
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:767
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:833
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:900
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:966
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1032
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1099
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1164
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1230
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1294
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1359
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1423
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1487
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1553
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1618
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1682
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1745
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1808
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1872
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1942
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2010
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2073
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2137
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2201
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2292
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2346
+msgid "Email Subject:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:643
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:709
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:775
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:841
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:908
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:974
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1040
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1107
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1172
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1238
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1302
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1367
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1431
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1495
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1561
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1626
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1690
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1753
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1816
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1880
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1950
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2018
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2081
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2145
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2209
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2300
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2354
+msgid "Email Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:653
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:719
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:785
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:851
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:918
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:984
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1050
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1117
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1182
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1248
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1312
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1377
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1441
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1505
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1571
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1636
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1700
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1763
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1826
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1890
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1960
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2028
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2091
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2155
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2219
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2310
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2364
+msgid "Here is a list of tags you can use in this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:655
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:721
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:787
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:853
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:920
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:986
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1120
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1185
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1379
+msgid "Seller Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:656
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:722
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:788
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:854
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:921
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:987
+msgid "Buyer Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:657
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:723
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:789
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:855
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:922
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:988
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1054
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1121
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1186
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1251
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1315
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1380
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1444
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1509
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1574
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1639
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1703
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1766
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1829
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1893
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1963
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2031
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2094
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2157
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2221
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2315
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2368
+msgid "the link to your user login page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:658
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:724
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:790
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:856
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:923
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:989
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1055
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1122
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1187
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1252
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1316
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1381
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1445
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1510
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1575
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1640
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1704
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1767
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1830
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1894
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1964
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2032
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2095
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2158
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2222
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2316
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2369
+msgid "your website's name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:659
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:725
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:791
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:857
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:924
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:990
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1056
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1123
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1188
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1253
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1317
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1382
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1446
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1511
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1576
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1641
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1705
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1768
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1831
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1895
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1965
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2033
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2096
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2159
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2223
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2317
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2370
+msgid "your website's main address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:660
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:726
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:792
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:858
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:925
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:991
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1057
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1124
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1189
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1254
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1318
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1383
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1447
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1512
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1577
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1642
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1706
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1769
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1832
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1896
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1966
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2034
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2097
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2160
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2224
+msgid "your website's my account link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:661
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:727
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:793
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:859
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:926
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:992
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1058
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1125
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1190
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1255
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1319
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1384
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1448
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1513
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1578
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1643
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1707
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1770
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1833
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1897
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1967
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2035
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2098
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2161
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2225
+msgid "item's title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:662
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:728
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:794
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:860
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:927
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:993
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1059
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1127
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1192
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1257
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1321
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1386
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1450
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1514
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1579
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1644
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1708
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1771
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1834
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1898
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1968
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2036
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2099
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2162
+msgid "link for the new item"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:671
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:737
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:803
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:869
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:936
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1002
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1068
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1136
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1201
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1266
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1330
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1395
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1459
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1523
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1588
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1653
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1717
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1780
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1844
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1908
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1978
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2044
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2107
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2170
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2234
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2272
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2325
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2378
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2714
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2744
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2782
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2826
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5287
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5317
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5347
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5377
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5415
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5681
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5729
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5767
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5842
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5872
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6061
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6086
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6110
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6134
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6294
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6358
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6382
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6412
+msgid "Save Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:684
+#, fuzzy
+msgid ""
+"This email will be received by the seller, after a buyer buys an item (buy "
+"now auction). \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:750
+#, fuzzy
+msgid ""
+"This email will be received by the buyer, after he has paid for the item. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:816
+#, fuzzy
+msgid ""
+"This email will be received by the seller, after the buyer has paid for the "
+"item. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:883
+#, fuzzy
+msgid ""
+"This email will be received by the buyer, after the seller marks the item as "
+"shipped. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:949
+#, fuzzy
+msgid ""
+"This email will be received by the seller, after he marks the item as "
+"shipped. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1015
+#, fuzzy
+msgid ""
+"This email will be received by any user, to get notified for a review he "
+"needs to award for an item he bought or sold. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1052
+msgid "To be rated user's Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1053
+msgid "The user's username who will award the rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1082
+#, fuzzy
+msgid ""
+"This email will be received by the potential buyer when the seller submits a "
+"counter offer to the buyer`s offer. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1119
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1184
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1250
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1314
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1443
+msgid "Potential Buyer(offer) Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1126
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1191
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1256
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1320
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1385
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1449
+msgid "the offered price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1147
+#, fuzzy
+msgid ""
+"This email will be received by the seller when a user submits an offer. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1213
+#, fuzzy
+msgid ""
+"This email will be received by the buyer when the seller has accepted thier "
+"counter offer. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1277
+#, fuzzy
+msgid ""
+"This email will be received by the user when the seller has accepted the "
+"offer. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1342
+#, fuzzy
+msgid ""
+"This email will be received by the seller when the buyer has rejected the "
+"counter offer. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1406
+#, fuzzy
+msgid ""
+"This email will be received by the user when the seller has rejected the "
+"offer. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1470
+#, fuzzy
+msgid ""
+"This email will be received by any users who is rated for an item that he "
+"bought or sold. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1507
+msgid "Just rated user's Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1508
+msgid "The user's username who awarded the rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1536
+#, fuzzy
+msgid ""
+"This email will be received by the owner of the item after he accepts the "
+"item as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1573
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1702
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1962
+msgid "auction Owner's Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1601
+#, fuzzy
+msgid ""
+"This email will be received by the bidder/provider after the owner of the "
+"items accepts the item as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1638
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1765
+msgid "Bidder's Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1665
+#, fuzzy
+msgid ""
+"This email will be received by the owner of the item when the provider marks "
+"the item as completed. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1728
+#, fuzzy
+msgid ""
+"This email will be received by the provider/bidder when he marks the item as "
+"completed. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1791
+#, fuzzy
+msgid ""
+"This email will be received by any user when another user sends a private "
+"message. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1835
+msgid "sender username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1836
+msgid "receiver username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1855
+#, fuzzy
+msgid ""
+"This email will be received by the freshly rated user. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1892
+msgid "Winner Bidder's Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1899
+msgid "rating value"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1900
+msgid "rating comment"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1925
+#, fuzzy
+msgid ""
+"This email will be received by the the shop owner when his membership is "
+"expired. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1969
+msgid "the bidder username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1970
+msgid "the bid value"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:1993
+#, fuzzy
+msgid ""
+"This email will be received by your users after posting a new item on your "
+"website if the item is automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2030
+msgid "username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2056
+#, fuzzy
+msgid ""
+"This email will be received by your users after posting a new item on your "
+"website if the item is not automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2093
+msgid "item owner username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2120
+#, fuzzy
+msgid ""
+"This email will be received by the admin when someone posts an item on the "
+"website to be approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2184
+#, fuzzy
+msgid ""
+"This email will be received by the admin when someone posts an item on the "
+"website. This email will be received if the item is automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2226
+msgid "link for the new auction"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2282
+#, fuzzy
+msgid ""
+"This email will be received by all new users who register on your website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2312
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2366
+msgid "your new username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2313
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2367
+msgid "your new user's email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2314
+msgid "your new user's password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2336
+#, fuzzy
+msgid ""
+"This email will be received by the admin when a new user registers on the "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the lawyer after the owner of the projects "
+"accepts the project as delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2468
+msgid "General Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2471
+msgid "Plain HTML Uploaders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2471
+msgid "Fancy jQuery Uploaders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2569
+msgid "Main Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2570
+msgid "Filters"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2571
+msgid "Facebook Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2572
+msgid "Twitter Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2585
+msgid "Image Uploaders:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2591
+msgid "Randomise frontpage slider:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2598
+msgid "Enable shop subscriptions:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2614
+msgid "Show Subcategories & Sublocations:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2620
+msgid "Show views in each product page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2626
+msgid "Admin approves each product:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2633
+msgid "Enable Frontpage Slider:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2639
+msgid "Enable Main Menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2645
+msgid "Enable Stretch Area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2651
+msgid "Enable Blog:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2658
+msgid "Enable Virtual Currency (credits):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2665
+msgid "Enable Locations:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2672
+msgid "Only admin will post products:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2679
+msgid "Featured product max job listing period:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2686
+msgid "Products per page in Advanced Search:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2693
+msgid "Slug for product Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2699
+msgid "Slug for Location Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2705
+msgid "Slug for Category Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2730
+msgid "Filter Email Addresses (private messages):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2736
+msgid "Filter URLs (private messages):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2763
+msgid "Enable Facebook Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2769
+msgid "Facebook App ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2775
+msgid "Facebook Secret Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2797
+msgid "Enable Twitter Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2803
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2809
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:2817
+msgid "Callback URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3079
+msgid "Mark as Paid"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3080
+msgid "Purge Order"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3160
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3352
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3548
+msgid "There are no items yet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:3271
+msgid "Mark as Shipped"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4202
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4203
+#, php-format
+msgid "Your withdrawal has been completed: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4208
+#, php-format
+msgid "Withdraw to PayPal to email: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4218
+msgid "Unresolved Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4219
+msgid "Resolved Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4220
+msgid "Rejected Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4221
+msgid "Search Unresolved"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4222
+msgid "Search Solved"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4223
+msgid "Search Rejected"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4239
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4302
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4367
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4452
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4540
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4629
+msgid "Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4240
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4303
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4368
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4453
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4541
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4630
+msgid "Method"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4242
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4305
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4370
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4455
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4543
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4632
+msgid "Date Requested"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4243
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4306
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4371
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4456
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4544
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4633
+msgid "Amount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4244
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4308
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4373
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4457
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4545
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4634
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4723
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4803
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6532
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6655
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/all_orders.php:49
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_payments.php:51
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:69
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:52
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:101
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:81
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/outstanding_payments.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:91
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:145
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:213
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:280
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:58
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_items.php:49
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_orders.php:52
+msgid "Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4266
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4331
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4396
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4479
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4567
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4656
+msgid "Make Complete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4267
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4332
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4397
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4480
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4568
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4657
+msgid "Deny Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4267
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4332
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4397
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4480
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4568
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4657
+msgid "Completed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4267
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4332
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4397
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4480
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4568
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4657
+msgid "Rejected"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4279
+msgid "There are no unresolved withdrawal requests."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4307
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4372
+msgid "Date Released"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4344
+msgid "There are no resolved withdrawal requests."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4409
+msgid "There are no rejected withdrawal requests."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4425
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4512
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4600
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4700
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4774
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6437
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6624
+msgid "Search User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4492
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4580
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4669
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6688
+msgid "There are no results for your search."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4699
+msgid "All User Reviews"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4719
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4799
+msgid "product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4720
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4800
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:175
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:175
+msgid "Rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4721
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4801
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:187
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:308
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:325
+msgid "Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4722
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4802
+msgid "Awarded On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4760
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:4840
+msgid "There are no user feedback."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5229
+msgid "Bank Payment(offline)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5240
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5302
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5332
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5362
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5400
+msgid "Enable:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5246
+msgid "PayPal Enable Sandbox:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5252
+msgid "PayPal Email Address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5258
+msgid "Enable PayPal Adaptive:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5264
+msgid "Signature:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5269
+msgid "API Password:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5274
+msgid "API User:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5279
+msgid "Application ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5308
+msgid "Payza/Alertpay Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5338
+msgid "MoneyBookers Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5368
+msgid "iDeal Partner ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5406
+msgid "Bank Details:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5537
+msgid "Comma (,)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5537
+msgid "Point (.)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5538
+msgid "In front of sum (eg: $50)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5538
+msgid "After the sum (eg: 50$)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5632
+msgid "Main Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5633
+msgid "Store Fees"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5634
+msgid "Other Fees"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5645
+msgid "Site currency:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5652
+msgid "Currency symbol:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5658
+msgid "Currency symbol position:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5665
+msgid "Decimals sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5671
+msgid "Thousands sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5698
+msgid "Enable Trial:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5704
+msgid "Trial Period:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5706
+msgid "days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5713
+msgid "Shop Monthly Fee:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5719
+msgid "Shop Yearly Fee:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5746
+msgid "Fee taken for each product when paid:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5756
+msgid "Withdraw Min Limit:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5817
+msgid "Google Analytics"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5818
+msgid "Other Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5828
+msgid "Enable Google Analytics:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5834
+msgid "Analytics Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5858
+msgid "Enable Other Tracking:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5864
+msgid "Other Tracking Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5891
+msgid "Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5903
+msgid "Main Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5904
+msgid "From SiteMile Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5913
+msgid "Walleto Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5918
+msgid "Walleto Latest Release:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5923
+msgid "WordPress Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5929
+msgid "Go to SiteMile official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5934
+msgid "Go to Walleto's official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5939
+msgid "Go to support forums:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5944
+msgid "Contact SiteMile Team:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5949
+msgid "Like us on Facebook:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5955
+msgid "Follow us on Twitter:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:5995
+msgid "Advertising Spaces"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6039
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6211
+msgid "HomePage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6040
+msgid "Product Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6041
+msgid "Category Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6042
+msgid "Single Blog/Normal Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6048
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6073
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6097
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6121
+msgid "Above the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6054
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6079
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6103
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6127
+msgid "Below the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6212
+msgid "Header"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6213
+msgid "Footer"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6214
+msgid "Change Colors"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6223
+msgid "Color for background:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6251
+msgid "Color for footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6258
+msgid "Color for text footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6265
+msgid "Color for top links:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6271
+msgid "Color for top links(hover):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6278
+msgid "Color for main menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6285
+msgid "Color for main menu(hover):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6310
+msgid "The layout of the homepage."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6311
+msgid "Choose from the home page layouts available:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6315
+msgid "Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6323
+msgid "Content + Left Sidebar + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6331
+msgid "Left Sidebar + Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6339
+msgid "Left Sidebar + Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6347
+msgid "Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6373
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6374
+msgid "Logo URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6396
+msgid "This will appear in the left side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6397
+msgid "Left side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6403
+msgid "This will appear in the right side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6404
+msgid "Right side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6436
+msgid "All Private Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6528
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6651
+msgid "Sender"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6529
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6652
+msgid "Receiver"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6530
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6653
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:89
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:143
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:211
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:278
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:509
+msgid "Subject"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6531
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6654
+msgid "Sent On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/admin_menu.php:6607
+msgid "There are no private messages."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:205
+msgid "There are no products."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:223
+msgid "Search Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:241
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:40
+msgid "Keyword"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:245
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:44
+msgid "Min Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:248
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:47
+msgid "Max Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:252
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:128
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:272
+msgid "Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:253
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:131
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:273
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:190
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:52
+msgid "Select Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/advanced_search.php:281
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:57
+#, fuzzy
+msgid "Refine Search"
+msgstr "Lawyer Search"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/all_categories.php:33
+msgid "All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/blog.php:33
+msgid "Blog Posts"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/blog.php:54
+msgid "There are no blog posts."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/checkout.php:13
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:106
+msgid "Checkout"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/checkout.php:64
+msgid "Go back to My Cart"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/checkout.php:65
+msgid "Proceed to Payment"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/checkout.php:74
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:115
+msgid "There are no items in your shopping cart."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:19
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:40
+msgid "Cart content updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:53
+msgid "My Cart Content"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:80
+msgid "Remove from Cart"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:104
+msgid "Continue Shopping"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_cart.php:105
+msgid "Update Cart"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:38
+msgid "Post New Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:46
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:66
+msgid "About Your Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:67
+msgid "Add Photos"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:54
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:68
+msgid "Review & Publish"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:118
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:267
+msgid "Your product title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:139
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:278
+msgid "Product Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:165
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:296
+msgid "Shipping Cost"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:170
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:301
+msgid "This item does not require shipping."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:206
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:327
+msgid "Feature product?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:231
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:346
+msgid "Tags"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:248
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:568
+msgid "Next Step"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:293
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:451
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:114
+msgid "Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:565
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:846
+msgid "Go Back"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:628
+msgid "Featured Listing Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:639
+msgid "Extra Images Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:676
+msgid "Thank you for posting your item with us."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:697
+msgid "Your product isn't yet live, the admin needs to approve it."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:727
+msgid ""
+"Thank you for posting your product with us. Below is the total price that "
+"you need to pay in order to put your product live.<br/>\n"
+"\t\t\tClick the pay button and you will be redirected..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:762
+msgid "Total to Pay"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:780
+msgid "See your product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:795
+msgid "Your Total Credits"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:800
+msgid "Pay by Credits"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:801
+msgid "Pay Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:815
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership.php:52
+msgid "Pay by PayPal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:818
+msgid "Pay by MoneyBookers/Skrill"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:821
+msgid "Pay by Payza"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new.php:850
+msgid "Finalize and Publish Item"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new_post.php:67
+msgid "You cannot leave the product title blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new_post.php:68
+msgid "You cannot leave the product description blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new_post.php:69
+msgid "You cannot leave the product category blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/post_new_post.php:70
+msgid "You cannot leave the product price blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:15
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:25
+msgid "User Profile"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:34
+msgid "No personal info defined."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:54
+#, fuzzy
+msgid "Contact User"
+msgstr "Contact Lawyers"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:71
+msgid "User Latest Posted Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:131
+msgid "No products posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:153
+msgid "User Latest Feedback"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:154
+msgid "See All Feedback"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:171
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/all_orders.php:46
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_payments.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:65
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:97
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:77
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/outstanding_payments.php:46
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:54
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:113
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:171
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_items.php:46
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_orders.php:49
+msgid "Order ID"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:172
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:88
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:210
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:114
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:172
+msgid "From User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:173
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:56
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:115
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:173
+msgid "Aquired on"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:199
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:199
+msgid "Comment"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/user_profile.php:210
+msgid "There are no reviews to be awareded."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/watchlist.php:76
+msgid "There are no items in your watch list."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/deposit_pay.php:82
+msgid "Deposit through PayPal."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/deposit_pay.php:86
+msgid "PayPal deposit fee."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/deposit_pay_moneybookers.php:30
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/purchase_mem_skrill.php:37
+msgid "Please wait, your order is being processed..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/mb_deposit_response.php:27
+msgid "Deposit through Moneybookers."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/normal_paypal_product.php:68
+#, php-format
+msgid "Payment for Order #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/purchase_mem_paypal.php:33
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/gateways/purchase_mem_skrill.php:19
+#, php-format
+msgid "Shop Membership: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:83
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:261
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:274
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:91
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:102
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:125
+msgid "Retrieve Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:111
+msgid "Please enter your information here. We will send you a new password."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:117
+msgid "Username or Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:134
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:469
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:140
+msgid "Are you lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:138
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:401
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:413
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:64
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:141
+msgid "Login"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:159
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:182
+msgid "Retrieve Error"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:187
+#, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have "
+"the wrong username or e-mail address? <a href=\"%s\">Try again</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:208
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:210
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:290
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:58
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:110
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:211
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:215
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:122
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:221
+msgid "There Was a Problem"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:222
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:299
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:128
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:223
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:300
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:228
+#, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:229
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:306
+msgid "Check your e-mail first, of course"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:230
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:307
+msgid "Click here to login!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:245
+msgid "Key Not Valid"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:260
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:273
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:298
+msgid "<h1>Problem</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:291
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:59
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:294
+#, php-format
+msgid "[%s] Your new password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:304
+msgid "<h1>Success!</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:305
+msgid "Your new password is in the mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:309
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:310
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:393
+msgid "Your session has expired."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:396
+msgid "<strong>Error</strong>: The password field is empty."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:421
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this "
+"page."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:442
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:116
+msgid "Username:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:447
+msgid "Password:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:453
+msgid "Keep me logged in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:461
+msgid "Sign in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:474
+msgid "Password Lost and Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/login.php:474
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:142
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:46
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:57
+msgid "Registration Complete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:59
+msgid "emailed to you"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:60
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:61
+msgid ""
+"Please check your <strong>Junk Mail</strong> if your account information "
+"does not appear within 5 minutes."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:121
+msgid "E-mail:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:129
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:142
+msgid "Password Lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:163
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:175
+msgid "Registration Disabled"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:179
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:180
+msgid "Go back to the blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:205
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:207
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:210
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:215
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:217
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:220
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/register.php:233
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:65
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:69
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:82
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:96
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:108
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:111
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:112
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/login_register/sett.php:128
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/activate_selling.php:25
+msgid "Activate Selling Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/activate_selling.php:63
+#, php-format
+msgid "Activate Selling Product - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/activate_selling.php:72
+#, php-format
+msgid ""
+"Your item has been activated for selling. <a href=\"%s\">Return to your "
+"account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/activate_selling.php:88
+msgid "Are you sure you want to mark this product as active for selling?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/active_products.php:33
+msgid "Active Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/active_products.php:53
+msgid "There are no active products yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/all_orders.php:33
+msgid "All My Orders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/all_orders.php:47
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_payments.php:49
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:66
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:49
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:98
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:78
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/outstanding_payments.php:47
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_items.php:47
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_orders.php:50
+msgid "Date and Time"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/all_orders.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_payments.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:67
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:99
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:79
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/outstanding_payments.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_items.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_orders.php:51
+msgid "Order Total"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/all_orders.php:69
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_payments.php:68
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:153
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:69
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:165
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_items.php:65
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/shipped_orders.php:69
+msgid "There are no orders yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_payments.php:33
+msgid "Awaiting Payments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/awaiting_shipping.php:68
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:51
+msgid "Paid On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/delete_product.php:63
+#, php-format
+msgid "Delete Product - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/delete_product.php:72
+#, php-format
+msgid "Your item has been deleted. <a href=\"%s\">Return to your account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/delete_product.php:88
+msgid "Are you sure you want to delete this product?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:25
+msgid "Edit Product Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:95
+#, php-format
+msgid "Edit Product - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:103
+msgid "Your product has been saved successfully."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/edit_product.php:358
+msgid "Save Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:44
+msgid "My Finances"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:50
+msgid "Your Current Balance is"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:65
+msgid "What do you want to do"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:68
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:378
+msgid "Deposit Money"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:69
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:487
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:607
+msgid "Make Payment"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:70
+msgid "Withdraw Money"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:71
+msgid "Transactions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:81
+msgid "Pending Withdrawals"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:94
+msgid "No withdrawals pending yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:108
+msgid "Close Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:225
+msgid "Request Withdrawal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:234
+#, php-format
+msgid "Your Current Balance is: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:245
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:504
+msgid "Provide a well formated amount."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:250
+msgid "Invalid email provided."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:259
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:523
+msgid "Your balance is smaller than the amount requested."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:263
+#, php-format
+msgid "The amount should not be less than %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:285
+msgid "Money Withdraw Requested"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:286
+#, php-format
+msgid "You have requested a new withdrawal of: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:292
+msgid "Your request has been queued. Redirecting..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:315
+msgid "Withdraw amount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:320
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:118
+msgid "PayPal Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:327
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:349
+msgid "Withdraw"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:340
+msgid "Withdraw amount(bank)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:366
+msgid "Please input a proper amount."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:386
+msgid "Deposit money by Bank"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:388
+#, php-format
+msgid "Bank Details: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:400
+msgid "Deposit money by PayPal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:403
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:418
+msgid "Amount to deposit:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:404
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:419
+msgid "Deposit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:415
+msgid "Deposit money by Skrill"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:443
+msgid "Payment Transactions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:452
+msgid "No activity yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:509
+msgid "Invalid username provided."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:514
+msgid "You cannot transfer money to your own account."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:527
+msgid "The amount should not be less than"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:546
+msgid "Money Sent"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:547
+#, php-format
+msgid "You have sent amount of: %s %s to user: <b>%s</b>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:552
+#, php-format
+msgid "Amount transfered to user %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:566
+msgid "Money Received"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:567
+#, php-format
+msgid "You have received amount of: %s %s from user: <b>%s</b>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:572
+#, php-format
+msgid "Amount transfered from user %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:577
+msgid "Your payment has been sent. Redirecting..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:588
+#, php-format
+msgid "Your Current Balance is %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:595
+msgid "Payment amount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/finances.php:600
+msgid "Pay to user"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/mark_shipped.php:27
+#, php-format
+msgid "Mark as Shipped - Order #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/mark_shipped.php:77
+#, php-format
+msgid "Mark Order Shipped - #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/mark_shipped.php:117
+#, php-format
+msgid ""
+"Your item has been marked as shipped. <a href=\"%s\">Return to your shipped "
+"orders</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/mark_shipped.php:133
+msgid "Are you sure you want to mark this order as shipped?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:33
+msgid "My Account Home - Awaiting Shipping"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:83
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/outstanding_payments.php:33
+msgid "Outstanding Payments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:100
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:80
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/outstanding_payments.php:49
+msgid "Left to Pay"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_account.php:114
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:84
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:81
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/outstanding_payments.php:63
+msgid "There are no outstanding orders."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:53
+msgid "Your trial has been activated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:67
+msgid "Shop Subscription"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:75
+msgid ""
+"Your shop membership has expired and you need to renew it. Please chose from "
+"the options below to start selling your products."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:90
+msgid "Trial Membership"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:91
+#, php-format
+msgid "For %s days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:92
+msgid "Activate Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:98
+msgid "Monthly Membership"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:100
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:107
+msgid "Purchase Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:105
+msgid "Yearly Membership"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:118
+#, php-format
+msgid "Your shop membership is valid and will expire on %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:166
+msgid "Info saved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:182
+msgid "Your shop URL"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:183
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:202
+msgid "Shop not setup yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:194
+msgid "Shop Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:197
+msgid "Select Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:201
+msgid "Your shop title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:207
+msgid "Facebook Link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:212
+msgid "Twitter Link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:218
+msgid "Portfolio Pictures"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/my_shop_setup.php:332
+msgid "Save Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:39
+msgid "Congrats! Your payment has been received."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/not_shipped.php:48
+msgid "Not Shipped Orders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:34
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:34
+#, php-format
+msgid "Order Content %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:47
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:47
+msgid "Picture"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:48
+msgid "Item"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:49
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:49
+#, fuzzy
+msgid "Seller"
+msgstr "Contact Lawyers"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:50
+msgid "Item Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:52
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:52
+msgid "Shipped"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content.php:53
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/order_content2.php:53
+msgid "Paid"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/out_of_stock.php:33
+msgid "Out Of Stock Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/out_of_stock.php:53
+msgid "There are no out of stock products yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pause_selling.php:25
+msgid "Pause Selling Product"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pause_selling.php:63
+#, php-format
+msgid "Pause Selling Product - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pause_selling.php:72
+#, php-format
+msgid ""
+"Your item has been paused from selling. <a href=\"%s\">Return to your "
+"account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pause_selling.php:88
+msgid "Are you sure you want to pause from selling this product?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item.php:34
+#, php-format
+msgid "Pay for Order - #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item.php:39
+#, php-format
+msgid ""
+"You are about to pay <b>%s</b> for this order. Please choose from one of the "
+"below payment methods."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item.php:44
+msgid "Pay by Virtual Currency"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item.php:67
+#, php-format
+msgid "Pay %s by PayPal to %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:34
+#, php-format
+msgid "Pay for Order by Virtual Currency - #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:68
+#, php-format
+msgid "Payment for order #%s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:105
+#, php-format
+msgid "Payment received for product <b>%s</b> (#%s). Quantity: %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:112
+#, php-format
+msgid "Payment for shipping product <b>%s</b> (#%s). Quantity: %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:124
+#, php-format
+msgid "Payment fee paid for selling the product %s (%s). Quantity: %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:142
+#, php-format
+msgid ""
+"You dont have enough money into your account. <a href=\"%s\">Deposit More "
+"Money</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:149
+#, php-format
+msgid "Your item has been paid. <a href=\"%s\">Return to your account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:158
+#, php-format
+msgid ""
+"You are about to pay <b>%s</b> for this order using virtual currency. Click "
+"confirm to finish the payment. If you do not have enough money into your "
+"account, you will be redirected to deposit more money."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:173
+msgid "Confirm Payment"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/pay_4_item_virtual.php:185
+#, php-format
+msgid ""
+"You do not seem to have enough balance in your account. To make the payment "
+"you must deposit more. <b><a href=\"%s\">Click here</a></b> for deposit."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:40
+msgid "Personal Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:67
+msgid "Passwords do not match!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:109
+msgid "Your profile information was updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:124
+msgid "Shipping Info"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:129
+msgid "Profile Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:135
+msgid "New Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:141
+msgid "Repeat Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:147
+msgid "Profile Avatar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:149
+msgid "max file size: 1mb. Formats: jpeg, jpg, png, gif"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/personal_info.php:158
+msgid "Save"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:44
+msgid "Messaging Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:45
+msgid "Send New Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:46
+msgid "Inbox"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:54
+msgid "Sent Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:76
+msgid "Latest Received Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:90
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:144
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:212
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:279
+msgid "Date"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:107
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:162
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:229
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:297
+msgid "Read"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:108
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:163
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:230
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:298
+msgid "Delete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:115
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:171
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:238
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:306
+msgid "No messages here."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:130
+msgid "Latest Sent Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:142
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:277
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:55
+msgid "To User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:198
+msgid "Private Messages: Inbox"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:265
+msgid "Private Messages: Sent Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:345
+msgid "Read Message: "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:355
+msgid "Reply"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:392
+msgid "Delete Message: "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:402
+msgid "Confirm Deletion"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:461
+msgid "Your message has been sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:470
+msgid "Cant send messsages to yourself"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:480
+msgid "The message was not sent. The recipient does not exist."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:497
+#, php-format
+msgid "Send Private Message to: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:503
+msgid "Send To"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:514
+msgid "Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/private_messages.php:525
+msgid "Send Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership.php:35
+msgid "Purchase Membership"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership.php:43
+#, php-format
+msgid ""
+"You are about to purchase new membership for your shop. Use the payment "
+"options below.<br/>\n"
+"\t\t\t\tMembership Type: %s. Membership Cost: %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership.php:49
+msgid "Pay by e-Wallet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership.php:56
+msgid "Pay by Skrill"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership_credits.php:38
+msgid "Purchase Membership - Pay by eWallet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership_credits.php:53
+#, php-format
+msgid ""
+"You do not have enough credits in your account to pay for this membership. "
+"<a href=\"%s\">Click here</a> to deposit more."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership_credits.php:65
+#, php-format
+msgid "Payment for shop membership. Period %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership_credits.php:85
+#, php-format
+msgid ""
+"Your membership was upgraded. <a href=\"%s\"><b>Click here</b></a> to get "
+"back to your account."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership_credits.php:98
+#, php-format
+msgid ""
+"You are about to purchase new membership for your shop. You will pay by "
+"eWallet.<br/>\n"
+"\t\t\t\tMembership Type: %s. Membership Cost: %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership_credits.php:104
+msgid "Agree and Purchase"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/purchase_membership_credits.php:106
+msgid "Cancel and Go Back"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/rate_user.php:41
+#, php-format
+msgid "Review User %s for order #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/rate_user.php:58
+msgid "Please leave a comment with your review."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/rate_user.php:69
+#, php-format
+msgid ""
+"Your rating has been posted. <a href='%s'>Return to your account area</a>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/rate_user.php:116
+msgid "Your Rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/rate_user.php:121
+msgid "Your Comment"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/rate_user.php:129
+msgid "Submit Rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:40
+msgid "Reviews I need to award"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:75
+msgid "Rate User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:85
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:144
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:210
+msgid "There are no reviews to be awarded."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:99
+msgid "Reviews I am waiting "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/my_account/reviews.php:157
+msgid "Reviews I was awarded "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse-by-category.php:234
+msgid "See More Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse-by-category.php:249
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse_shops.php:84
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/featured-products.php:76
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/latest-posted-products.php:67
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/most-visited-products.php:69
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:71
+msgid "Title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse-by-category.php:254
+msgid "Number of Columns"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse-by-category.php:269
+msgid "Number of Rows"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse-by-category.php:276
+msgid "Only show categories below"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse-by-category.php:282
+msgid "Categories to show"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse_shops.php:11
+msgid "Show latest posted shops"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse_shops.php:13
+msgid "Walleto - Browse Shops"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse_shops.php:69
+msgid "Sorry, there are no shops yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/browse_shops.php:91
+msgid "Show shops limit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/featured-products.php:60
+msgid "Sorry, there are no featured products yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/featured-products.php:83
+msgid "Order"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/featured-products.php:98
+msgid "Show auctions limit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/latest-posted-products.php:11
+msgid "Show latest posted products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/latest-posted-products.php:13
+msgid "Walleto - Latest Products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/latest-posted-products.php:52
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/most-visited-products.php:54
+msgid "Sorry, there are no posted products yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/latest-posted-products.php:74
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/most-visited-products.php:76
+msgid "Show products limit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/most-visited-products.php:11
+msgid "Show most viewed products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/most-visited-products.php:13
+msgid "Walleto - Most viewed products"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:11
+msgid "Show advanced search widget."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:13
+msgid "Walleto - Search Widget"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:36
+msgid "Product ID#"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Walleto/lib/widgets/search-widget.php:51
+msgid "Filter by Category"
+msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ "This email will be received by the winner bidder when the item is won. \n"
+#~ "          Be aware, if you add html tags to this email you must have the "
+#~ "allow HTML tags option set to yes.\n"
+#~ "          Also at the bottom you can see a list of tags you can use in "
+#~ "the email body."
+#~ msgstr ""
+#~ "This email will be received by the lawyer after the owner of the projects "
+#~ "accepts the project as delivered. \n"
+#~ "          Be aware, if you add html tags to this email you must have the "
+#~ "allow HTML tags option set to yes.\n"
+#~ "          Also at the bottom you can see a list of tags you can use in "
+#~ "the email body."
+
+#, fuzzy
+#~ msgid ""
+#~ "This email will be received by the loser bidders when the item is won. \n"
+#~ "          Be aware, if you add html tags to this email you must have the "
+#~ "allow HTML tags option set to yes.\n"
+#~ "          Also at the bottom you can see a list of tags you can use in "
+#~ "the email body."
+#~ msgstr ""
+#~ "This email will be received by the lawyer after the owner of the projects "
+#~ "accepts the project as delivered. \n"
+#~ "          Be aware, if you add html tags to this email you must have the "
+#~ "allow HTML tags option set to yes.\n"
+#~ "          Also at the bottom you can see a list of tags you can use in "
+#~ "the email body."
+
+#~ msgid "Service Provider"
+#~ msgstr "Lawyer"
+
+#~ msgid "Service Provider Menu"
+#~ msgstr "Lawyer Menu"
+
+#~ msgid "%s provider(s)"
+#~ msgstr "%s lawyer(s)"
+
+#~ msgid "Service Provider Search"
+#~ msgstr "Lawyer Search"
+
+#~ msgid ""
+#~ "The service provider will be notified about this action. After this you "
+#~ "can pay the project from your Outstanding Payments section."
+#~ msgstr ""
+#~ "The lawyer will be notified about this action. After this you can pay the "
+#~ "project from your Outstanding Payments section."

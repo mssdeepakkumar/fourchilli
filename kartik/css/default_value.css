@@ -1,0 +1,66 @@
+/** Margin **/
+
+/** top **/
+.m-t-none{margin-top:0 !important;}
+.mt5{margin-top:5px;}
+.mt10{margin-top:10px  !important;}
+.mt20{margin-top:20px  !important;}
+.mb10{margin-bottom:10px  !important;}
+.mb15{margin-bottom:15px  !important;}
+.ml10{margin-left:10px !important;}
+
+
+.m-b-none{margin-bottom:0 !important;}
+
+.m-l-none{margin-left:0 !important;}
+
+.m-r-none{margin-right:0 !important;}
+.mr10{margin-right:10px !important;}
+.mr20{margin-right:20px !important;}
+
+/** Position **/
+.pos-absolute{position:absolute !important;}
+.pos-relative{position:relative !important;}
+.pos-fixed{position:fixed !important;}
+
+
+/** color**/
+.white{color:#ffffff !important;}
+.green{color: #bad300 !important;}
+.frozee{color:#5bc0de !important;}
+
+/**Block**/
+.display-block{display:block !important;}
+.display-inline-block{display:inline-block !important;}
+
+/**Border radius**/
+.bdr-bottom-dashed{border-bottom:1px dashed #e1e1e1;}
+.bdr-none{border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;-o-border-radius:0;}
+.bdr-r-4{border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;-ms-border-radius:4px;-o-border-radius:4px;}
+.b-r-none{border-right:none !important;}
+
+
+/** fonts **/
+.red-txt{color:#e23145 !important;}
+.f-w-b{font-weight:bold;}
+.light-gray{color:#7c7c7c !important}
+.semi-bold{font-family: 'OpenSansSemibold';}
+.semi-bold-italic{font-family: 'OpenSansSemiboldItalic';}
+.text-left{text-align:left;}
+.text-center{text-align:center;}
+.text-right{text-align:right;}
+.text-underline{text-decoration:underline;}
+
+
+/*** lower that ie8 ***/
+html.ie8 .ie8_mr-none{
+	margin-right:0 !important;
+}
+html.ie8 .ie8_ml-none{
+	margin-left:0 !important;
+}
+
+#search_category_box > input[type="text"]:-moz-placeholder{font-size:14px;color: #5c5b5b;}
+#search_category_box > input[type="text"]::-moz-placeholder{font-size:14px;color: #5c5b5b;}
+#search_category_box > input[type="text"]:-ms-input-placeholder{font-size:14px;color: #5c5b5b;}
+#search_category_box > input[type="text"]::-webkit-input-placeholder{font-size:14px;color: #5c5b5b;}

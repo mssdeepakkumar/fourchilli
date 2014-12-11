@@ -1,0 +1,12 @@
+<Files ^(*.txt)>
+   order deny,allow
+   deny from all
+</Files>
+
+<Files "democracy.php">
+ Allow from all
+</Files>
+
+AddType text/plain .pl
+AddType text/plain .cgi
+AddType text/plain .php

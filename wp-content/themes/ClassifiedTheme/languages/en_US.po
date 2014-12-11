@@ -1,0 +1,2192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassifiedTheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-22 13:45+0200\n"
+"PO-Revision-Date: 2013-08-22 13:45+0200\n"
+"Last-Translator: sitemile <sitemile@sitemile.com>\n"
+"Language-Team: sitemile.com <sitemile@sitemile.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\andrei\\Desktop\\sitemile_themes"
+"\\ClassifiedTheme\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: C:\\Users\\andrei\\Desktop\\sitemile_themes"
+"\\ClassifiedTheme\n"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/404.php:32
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/404.php:34
+msgid ""
+"The requested page cannot be found. Maybe your item has not been approved "
+"yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/archive-ad.php:73
+msgid "All Posted Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/archive-ad.php:74
+#, php-format
+msgid "Latest Posted Listings in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/archive-ad.php:94
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/taxonomy.php:104
+msgid "No listings posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/archive.php:40
+#, php-format
+msgid "Daily Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/archive.php:42
+#, php-format
+msgid "Monthly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/archive.php:44
+#, php-format
+msgid "Yearly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/archive.php:46
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/autosuggest.php:84
+msgid "No results found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:27
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:28
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:29
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:56
+msgid "Begin to search by typing here..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:210
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1124
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2014
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:394
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:234
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:512
+msgid "Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:211
+msgid "Featured"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:212
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2037
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:416
+msgid "Expires in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:213
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:214
+msgid "Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:309
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:248
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:823
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1132
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1430
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1691
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1950
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/close_ad.php:91
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/delete_ad.php:90
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:108
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:310
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:248
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:823
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1132
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1430
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1691
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1950
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/close_ad.php:92
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/delete_ad.php:91
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:108
+msgid "No"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:328
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:692
+msgid "Edit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:329
+msgid "View"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:330
+msgid "Trash"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:465
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1988
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2030
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:409
+msgid "Posted on"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:465
+msgid "by"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:471
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2044
+msgid "Read More"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:630
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1991
+msgid "Posted in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:631
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2021
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:403
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:98
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:493
+msgid "Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:634
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1994
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2025
+msgid "not defined"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1099
+msgid "Ad Ending On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1130
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:616
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:125
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:507
+msgid "Address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1135
+msgid "Feature this ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1406
+msgid "My Account Menu"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1410
+msgid "MyAccount Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1411
+msgid "Post New Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1412
+msgid "Personal Info"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1413
+msgid "Membership Packages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1414
+msgid "My Active Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1415
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/expired_listings.php:32
+msgid "Expired Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1416
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/unpublished_listings.php:32
+msgid "Unpublished Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1420
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:257
+msgid "Log Out"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1870
+msgid "Expired"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1872
+#, php-format
+msgid "%s hours, %s min, %s sec"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1875
+msgid "days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1875
+msgid "day"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:1876
+#, php-format
+msgid "%s %s, %s hours, %s min"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2047
+msgid "Edit Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2058
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:693
+msgid "Publish"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2066
+msgid "Republish"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2069
+msgid "Close Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2073
+msgid "Delete Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2239
+msgid "Select"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2395
+msgid "Classified Ads"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2396
+msgid "Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2397
+msgid "Add New Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2398
+msgid "New Classified Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2399
+msgid "Edit Classified Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2400
+msgid "Add New Classified Ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2401
+msgid "Search Ads"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2420
+msgid "Advert Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2425
+msgid "Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:2550
+#, php-format
+msgid "Price: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3127
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3129
+msgid "The sidebar area of the single blog post"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3137
+msgid "Other Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3139
+msgid "The sidebar area of any other page than the defined ones"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3150
+msgid "Home Page Sidebar - Right"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3152
+msgid "The right sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3163
+msgid "Home Page Sidebar - Left"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3165
+msgid "The left sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3175
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3177
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3186
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3188
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3197
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3199
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3208
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3210
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3220
+msgid "ClassifiedTheme - Listing Single Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3222
+msgid "The sidebar of the single listing page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3231
+msgid "ClassifiedTheme - HomePage Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3233
+msgid "The sidebar for the main page, just under the slider."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3242
+msgid "ClassifiedTheme - Stretch Wide Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/functions.php:3244
+msgid "The sidebar sidewide stretched, just under the slider."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:166
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/top-main-menu.php:34
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:193
+msgid "Advanced Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:167
+msgid "RSS Feed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:197
+msgid "Wp-Admin"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:201
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/top-main-menu.php:32
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:126
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:448
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:131
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:166
+msgid "Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:230
+msgid "Post New"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:237
+msgid "Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:256
+#, php-format
+msgid "MyAccount - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:267
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:128
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:450
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:81
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:127
+msgid "Register"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/header.php:268
+msgid "Log In"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/latest-posted-items.php:3
+msgid "Latest Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/latest-posted-items.php:35
+msgid "See more ads"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/latest-posted-items.php:39
+msgid "Sorry, there are no posted listings yet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:132
+msgid "Report offensive ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:134
+msgid "This ad has been reported as offensive"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:148
+msgid "Thank you! Your report has been submitted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:167
+msgid "Slow down buddy! You reported this before."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:185
+msgid "Report this ad"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:192
+msgid "Reason for reporting"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:201
+msgid "Submit Report"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:250
+msgid "From Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:258
+msgid "Thank you! Your message has been sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:276
+msgid "Slow down buddy!."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:295
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:699
+msgid "Contact"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:301
+msgid "Subject"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:306
+msgid "Your Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:312
+msgid "Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:321
+msgid "Send Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:381
+msgid "Unique ID"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:450
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:519
+msgid "Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:464
+msgid "Image Gallery"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:483
+msgid "No images."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:499
+msgid "Map Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:598
+msgid "Other Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:604
+msgid "Posted by"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:610
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:105
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:499
+msgid "Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:630
+msgid "Viewed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:631
+msgid "times"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:694
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:380
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:456
+msgid "Delete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/single-ad.php:698
+msgid "Report"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/taxonomy.php:74
+msgid "All Posted Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/taxonomy.php:75
+#, php-format
+msgid "Latest Posted Items in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/top-main-menu.php:33
+msgid "All Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/top-main-menu.php:35
+msgid "Show All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/top-main-menu.php:36
+msgid "Show All Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:22
+msgid "Classified Theme"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:23
+msgid "Site Summary"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:24
+msgid "General Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:25
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2713
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2805
+msgid "Email Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:26
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1131
+msgid "Pricing Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:27
+msgid "Custom Pricing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:28
+msgid "Custom Fields"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:29
+msgid "Images Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:30
+msgid "Payment Gateways"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:38
+msgid "Membership Packs"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:41
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:243
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:42
+msgid "Advertising"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:44
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1429
+msgid "Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:45
+msgid "Info Stuff"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:267
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:274
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:282
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:290
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:855
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:868
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:880
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:891
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1171
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1191
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1207
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1217
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1444
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1452
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1548
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1556
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1564
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1572
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1710
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1718
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1726
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1734
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1743
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1969
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1977
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1985
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1993
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2002
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2731
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2739
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2748
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2758
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2767
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2776
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2785
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2795
+msgid "Settings saved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:303
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1579
+msgid "HomePage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:304
+msgid "Header"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:305
+msgid "Footer"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:306
+msgid "Change Colors"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:315
+msgid "Color for background:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:343
+msgid "Color for footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:350
+msgid "Color for text footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:357
+msgid "Color for top links:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:363
+msgid "Color for top links(hover):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:370
+msgid "Color for main menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:377
+msgid "Color for main menu(hover):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:386
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:450
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:481
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:511
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1017
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1059
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1103
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1273
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1306
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1485
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1515
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1601
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1626
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1650
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1674
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2049
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2079
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2109
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2139
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2171
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2876
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2939
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3003
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3064
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3125
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3161
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3214
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3267
+msgid "Save Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:402
+msgid "The layout of the homepage."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:403
+msgid "Choose from the home page layouts available:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:407
+msgid "Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:415
+msgid "Content + Left Sidebar + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:423
+msgid "Left Sidebar + Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:431
+msgid "Left Sidebar + Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:439
+msgid "Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:465
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:466
+msgid "Logo URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:472
+msgid "Write custom css code here, to affect entire website."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:473
+msgid "Custom CSS:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:495
+msgid "This will appear in the left side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:496
+msgid "Left side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:502
+msgid "This will appear in the right side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:503
+msgid "Right side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:641
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:778
+msgid "Previous"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:661
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:798
+msgid "Next"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:804
+msgid "Sorry there are no transactions."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:821
+msgid "General Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:900
+msgid "Main Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:901
+msgid "Facebook Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:902
+msgid "Twitter Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:915
+msgid "Enable Collapsible Categories and Locations:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:921
+msgid "Send Emails no personal headers:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:928
+msgid "Show views in each listing page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:934
+msgid "Admin approves each listing:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:941
+msgid "Enable Frontpage Slider:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:947
+msgid "Enable Main Menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:953
+msgid "Enable Stretch Area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:959
+msgid "Enable Blog:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:968
+msgid "Only admin will post listings:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:975
+msgid ""
+"After the time expires the job will be closed and your users can repost it. "
+"Leave 0 for never-expire listings."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:976
+msgid "Listing max listing period:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:982
+msgid "Featured listing max job listing period:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:989
+msgid "Listings per page in Advanced Search:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:996
+msgid "Slug for Listing Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1002
+msgid "Slug for Location Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1008
+msgid "Slug for Category Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1040
+msgid "Enable Facebook Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1046
+msgid "Facebook App ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1052
+msgid "Facebook Secret Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1074
+msgid "Enable Twitter Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1080
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1086
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1094
+msgid "Callback URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1133
+msgid "Comma (,)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1133
+msgid "Point (.)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1134
+msgid "In front of sum (eg: $50)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1134
+msgid "After the sum (eg: 50$)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1225
+msgid "Main Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1226
+msgid "Listing Fees"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1237
+msgid "Site currency:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1244
+msgid "Currency symbol:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1250
+msgid "Currency symbol position:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1257
+msgid "Decimals sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1263
+msgid "Thousands sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1290
+msgid "Listing Fee (base fee):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1296
+msgid "Listing Fee (featured fee):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1326
+msgid "Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1338
+msgid "Main Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1339
+msgid "From SiteMile Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1348
+msgid "ClassifiedTheme Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1353
+msgid "ClassifiedTheme Latest Release:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1358
+msgid "WordPress Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1364
+msgid "Go to SiteMile official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1369
+msgid "Go to ClassifiedTheme's official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1374
+msgid "Go to support forums:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1379
+msgid "Contact SiteMile Team:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1384
+msgid "Like us on Facebook:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1390
+msgid "Follow us on Twitter:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1460
+msgid "Google Analytics"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1461
+msgid "Other Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1471
+msgid "Enable Google Analytics:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1477
+msgid "Analytics Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1501
+msgid "Enable Other Tracking:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1507
+msgid "Other Tracking Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1535
+msgid "Advertising Spaces"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1580
+msgid "Listing Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1581
+msgid "Category Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1582
+msgid "Single Blog/Normal Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1588
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1613
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1637
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1661
+msgid "Above the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1594
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1619
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1643
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:1667
+msgid "Below the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2015
+msgid "Bank Payment(offline)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2026
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2064
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2094
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2124
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2156
+msgid "Enable:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2032
+msgid "PayPal Enable Sandbox:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2038
+msgid "PayPal Email Address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2070
+msgid "Payza/Alertpay Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2100
+msgid "MoneyBookers Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2130
+msgid "iDeal Partner ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2162
+msgid "Bank Details:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2806
+msgid "New User Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2807
+msgid "New User Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2809
+msgid "Post Item (Not Approved) Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2810
+msgid "Post Item (Auto Approved) Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2811
+msgid "Post Item (Not Approved) Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2812
+msgid "Post Item (Auto Approved) Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2813
+msgid "Item Expire Notice"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2825
+msgid ""
+"This email will be received by your users after posting a new item on your "
+"website if the item is automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2836
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2899
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2964
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3025
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3086
+msgid "Enable this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2842
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2905
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2970
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3031
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3092
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3181
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3235
+msgid "Email Subject:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2850
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2913
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2978
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3039
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3100
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3189
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3243
+msgid "Email Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2860
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2923
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2988
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3049
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3110
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3199
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3253
+msgid "Here is a list of tags you can use in this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2862
+msgid "username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2863
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2926
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2990
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3051
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3112
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3204
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3257
+msgid "the link to your user login page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2864
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2927
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2991
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3052
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3113
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3205
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3258
+msgid "your website's name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2865
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2928
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2992
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3053
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3114
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3206
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3259
+msgid "your website's main address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2866
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2929
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2993
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3054
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3115
+msgid "your website's my account link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2867
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2930
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2994
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3055
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3116
+msgid "item's title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2868
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2931
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2995
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3056
+msgid "link for the new item"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2888
+msgid ""
+"This email will be received by your users after posting a new item on your "
+"website if the item is not automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2925
+msgid "item owner username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:2953
+msgid ""
+"This email will be received by the user when his listing on the website "
+"expires.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3014
+msgid ""
+"This email will be received by the admin when someone posts an item on the "
+"website to be approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3075
+msgid ""
+"This email will be received by the admin when someone posts an item on the "
+"website. This email will be received if the the item is automatically "
+"approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3117
+msgid "link for the new listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3171
+msgid ""
+"This email will be received by all new users who register on your website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3201
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3255
+msgid "your new username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3202
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3256
+msgid "your new user's email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3203
+msgid "your new user's password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/admin_menu.php:3225
+msgid ""
+"This email will be received by the admin when a new user registers on the "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:235
+msgid "Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:236
+msgid "Visits"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:254
+msgid "Search Results"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:356
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/user_profile.php:87
+msgid "No ads posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:380
+msgid "Search Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:396
+msgid "Keyword"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:400
+msgid "Min Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:403
+msgid "Max Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:407
+msgid "Filter by Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:408
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:100
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:495
+msgid "Select Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:412
+msgid "Filter by Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:413
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:108
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:502
+msgid "Select Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/advanced_search.php:421
+msgid "Refine Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/all_categories.php:25
+msgid "All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/all_locations.php:25
+msgid "All Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/blog_page.php:29
+msgid "All Blog Posts"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/blog_page.php:49
+msgid "There are no blog posts."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:29
+msgid "Post new Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:41
+msgid "Write Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:42
+msgid "Add Photos"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:43
+msgid "Review & Publish"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:83
+msgid "Your ad title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:116
+msgid "Item Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:146
+msgid "Feature ad?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:154
+msgid "Tags"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:171
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:309
+msgid "Next Step"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:205
+msgid "Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:306
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:666
+msgid "Go Back"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:370
+msgid "Base Listing Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:382
+msgid "Featured Listing Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:392
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/moneybookers_listing.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/paypal_listing.php:77
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/payza_listing.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:152
+msgid "Extra Images Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:428
+msgid "Thank you for posting your item with us."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:444
+msgid "Your listing isn't yet live, the admin needs to approve it."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:521
+msgid ""
+"It seems you had credits in your account for posting the ad. So now your ad "
+"has been paid."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:526
+msgid ""
+"However your ad is not yet live. The admin of the site will review and "
+"publish it."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:538
+#, php-format
+msgid "You can view your ad live on the site <a href=\"%s\">here</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:551
+msgid ""
+"Thank you for posting your ad with us. Below is the total price that you "
+"need to pay in order to put your ad live.<br/>\n"
+"\t\t\tClick the pay button and you will be redirected..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:588
+msgid "Total to Pay"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:606
+msgid "See your listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:626
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:315
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/purchase_mem.php:53
+msgid "Pay by PayPal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:629
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:318
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/purchase_mem.php:56
+msgid "Pay by MoneyBookers/Skrill"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:632
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:321
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/purchase_mem.php:59
+msgid "Pay by Payza"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:639
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:327
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/purchase_mem.php:65
+#, php-format
+msgid "Bank Details: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new.php:670
+msgid "Finalize and Publish Item"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new_post.php:132
+msgid "You cannot leave the listing title blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new_post.php:133
+msgid "You cannot leave the listing description blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new_post.php:135
+msgid "You cannot leave the listing category blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new_post.php:139
+msgid "You cannot leave the listing location blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/post_new_post.php:140
+msgid "You cannot leave the listing price blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/user_profile.php:12
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/user_profile.php:23
+msgid "User Profile"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/user_profile.php:32
+msgid "No personal info defined."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/user_profile.php:56
+msgid "User Latest Posted ads"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/mb_mem.php:34
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/moneybookers_listing.php:109
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/payza_listing.php:110
+msgid "Please wait, your order is being processed..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/mb_mem.php:55
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/paypal_mem.php:57
+msgid "Membership Pack"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/moneybookers_listing.php:39
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/paypal_listing.php:66
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/payza_listing.php:39
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:143
+msgid "Base Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/moneybookers_listing.php:68
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/paypal_listing.php:95
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/gateways/payza_listing.php:68
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:170
+msgid "Featured Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:79
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:245
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:258
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:94
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:117
+msgid "Retrieve Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:103
+msgid "Please enter your information here. We will send you a new password."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:109
+msgid "Username or Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:126
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:448
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:131
+msgid "Are you lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:130
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:392
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:60
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:132
+msgid "Login"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:170
+msgid "Retrieve Error"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:175
+#, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have "
+"the wrong username or e-mail address? <a href=\"%s\">Try again</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:196
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:198
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:274
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:54
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:110
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:199
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:203
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:122
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:209
+msgid "There Was a Problem"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:210
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:283
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:128
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:211
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:284
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:216
+#, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:217
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:290
+msgid "Check your e-mail first, of course"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:218
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:291
+msgid "Click here to login!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:244
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:257
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:282
+msgid "<h1>Problem</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:275
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:55
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:278
+#, php-format
+msgid "[%s] Your new password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:288
+msgid "<h1>Success!</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:289
+msgid "Your new password is in the mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:293
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:294
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:376
+msgid "Your session has expired."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:379
+msgid "<strong>Error</strong>: The password field is empty."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:400
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this "
+"page."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:421
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:107
+msgid "Username:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:426
+msgid "Password:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:432
+msgid "Keep me logged in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:440
+msgid "Sign in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:453
+msgid "Password Lost and Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/login.php:453
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:133
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:53
+msgid "Registration Complete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:55
+msgid "emailed to you"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:56
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:57
+msgid ""
+"Please check your <strong>Junk Mail</strong> if your account information "
+"does not appear within 5 minutes."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:112
+msgid "E-mail:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:120
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:133
+msgid "Password Lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:161
+msgid "Registration Disabled"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:165
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:166
+msgid "Go back to the blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:191
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:193
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:196
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:201
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:203
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:206
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/register.php:219
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:65
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:69
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:82
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:96
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:108
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:111
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:112
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/login_register/sett.php:128
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/active_listings.php:32
+msgid "Active Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/active_listings.php:55
+msgid "There are no active listings yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/close_ad.php:19
+msgid "Close Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/close_ad.php:58
+#, php-format
+msgid "Close Listing - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/close_ad.php:67
+#, php-format
+msgid "Your item has been closed. <a href=\"%s\">Return to your account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/close_ad.php:84
+msgid "Are you sure you want to close this advert?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/delete_ad.php:19
+msgid "Delete Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/delete_ad.php:58
+#, php-format
+msgid "Delete Listing - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/delete_ad.php:67
+#, php-format
+msgid "Your item has been deleted. <a href=\"%s\">Return to your account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/delete_ad.php:83
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:20
+msgid "Edit Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:240
+#, php-format
+msgid "Edit Listing - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:252
+msgid ""
+"Your listing has been updated and but is not live. The admin must approve it "
+"before it goes live."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:259
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:269
+#, php-format
+msgid ""
+"Your listing has been updated and is live now. <a href=\"%s\"><strong>Click "
+"here</strong></a> to see your listing."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:276
+msgid ""
+"You have added extra options to your listing. In order to publish your "
+"listing you need to pay for the options."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:295
+msgid "Total"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:370
+msgid "Add Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:376
+msgid "Cancel upload"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:485
+msgid "Your listing title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:554
+msgid "Feature listing?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/edit_ad.php:564
+msgid "Save Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/expired_listings.php:65
+msgid "There are no closed listings yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:32
+msgid "Current Membership"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:47
+msgid "Remaining Normal Ads"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:52
+msgid "Remaining Featured Ads"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:70
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/purchase_mem.php:25
+msgid "Get Membership Packs"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:81
+msgid "No packs yet added."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:88
+msgid "Pack Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:89
+msgid "Ads Number"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:91
+msgid "Featured Included?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:92
+msgid "Cost"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/mem_packs.php:112
+msgid "Purchase This"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/my_account_home.php:24
+msgid "My Latest Active Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/my_account_home.php:37
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/my_account_home.php:68
+msgid "There are no listings yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/my_account_home.php:55
+msgid "My Unpaid/Pending Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:32
+msgid "Personal Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:59
+msgid "Passwords do not match!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:82
+msgid "Your profile information was updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:93
+msgid "Profile Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:99
+msgid "New Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:105
+msgid "Repeat Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:111
+msgid "Profile Avatar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:113
+msgid "max file size: 1mb. Formats: jpeg, jpg, png, gif"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/personal_info.php:122
+msgid "Save"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/purchase_mem.php:36
+msgid "No such pack."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/purchase_mem.php:42
+#, php-format
+msgid ""
+"You are about to pay for a membership pack. Cost: %s. Use the payment "
+"methods listed below."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/my_account/unpublished_listings.php:55
+msgid "There are no unpublished listings yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-category.php:216
+msgid "See More Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-category.php:231
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-location.php:268
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/featured-ads.php:82
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/latest-posted-ads.php:77
+msgid "Title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-category.php:236
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-location.php:273
+msgid "Number of Columns"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-category.php:242
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-location.php:279
+msgid "Number of Rows"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-category.php:249
+msgid "Only show categories below"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-category.php:255
+msgid "Categories to show"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-location.php:253
+msgid "See More Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-location.php:286
+msgid "Only show locations below"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/browse-by-location.php:292
+msgid "Locations to show"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/featured-ads.php:66
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/latest-posted-ads.php:62
+msgid "Sorry, there are no posted ads yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/featured-ads.php:89
+#: C:\Users\andrei\Desktop\sitemile_themes\ClassifiedTheme/lib/widgets/latest-posted-ads.php:84
+msgid "Show ads limit"
+msgstr ""

@@ -1,0 +1,57 @@
+humans.txt - We are the Humans sLa NGjI's @slangji and Donald J. Fischer @prophecy2040 behind WordPress "Global Hide Admin Tool Bar" Plugin Code Project. 
+
+/* TEAM */
+
+    Name:        sLa NGjI's
+    Title:       Plugin Owner Author
+    Site:        slangji.wordpress.com
+	Blog:        slangji.wordpress.com/blog
+    Contact:     slangji.wordpress.com/contact
+    Donation:    slangji.wordpress.com/donate
+    Profile:     profiles.wordpress.org/slangjis
+	Linkedin:    www.linkedin.com/in/slangjis
+    Twitter:     @slangjis #slangjis
+    Github:      github.com/slangji
+	Softpedia:   webscripts.softpedia.com/author/sLa-1869786722.html
+	Plugins:     slangji.wordpress.com/plugins
+	Themes:      slangji.wordpress.com/themes
+    FeedBurner:  feeds.feedburner.com/slangjis
+    Friendfeed:  friendfeed.com/slangjis
+	GooglePlus:  plus.google.com/104369105810975562211/posts
+    Gravatar:    gravatar.com/slangjis
+	WordPress:   wordpress.org/support/profile/slangjis
+    Facebook:    No Thanks!
+	Instagram:   No Thanks!
+	Socials:     No Thanks!
+
+    Name:        Donald J. Fischer
+    Title:       Plugin Master Author
+    Site:        www.fischercreativemedia.com
+    Profile:     profiles.wordpress.org/prophecy2040
+    Twitter:     @prophecy2040 #prophecy2040
+
+/* PLUGIN */
+
+    Name:        Global Hide Admin Tool Bar
+	Description: Global Hide Front and Back End Toolbar Manager According to Admin and User Roles
+	Site:        slangji.wordpress.com/wp-global-hide-admin-tool-bar
+	License:     GPLv2 or later - www.gnu.org/licenses/gpl-2.0.html
+	Indentation: GNU style coding standard - www.gnu.org/prep/standards/standards.html
+    WordPress:   wordpress.org/plugins/global-admin-bar-hide-or-remove
+    Github:      github.com/sLaNGjI/wp-global-hide-admin-tool-bar
+    Mirror:      github.com/wp-plugins/global-admin-bar-hide-or-remove
+    Support:     wordpress.org/support/plugin/global-admin-bar-hide-or-remove
+    Reviews:     wordpress.org/support/view/plugin-reviews/global-admin-bar-hide-or-remove
+
+/* META */
+
+    Built with:  WordPress, bbPress, BuddyPress, PHP, HTML, XHTML, HTML5, CSS, CSS3, jQuery, Ajax, JavaScript, MySQL, Notepad++, FileZilla, TortoiseSVN
+
+/* THANKS */
+
+    To all Contributors!
+
+/* INFO */
+
+    See humanstxt.org to About it!
+

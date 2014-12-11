@@ -1,0 +1,2279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Buzzler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-11 00:52+0200\n"
+"PO-Revision-Date: 2013-05-11 00:52+0200\n"
+"Last-Translator: sitemile <sitemile@sitemile.com>\n"
+"Language-Team: sitemile.com <sitemile@sitemile.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\andrei\\Desktop\\sitemile_themes\\Buzzler\\\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: C:\\Users\\andrei\\Desktop\\sitemile_themes\\Buzzler\n"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/404.php:32
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/404.php:34
+msgid ""
+"The requested page cannot be found. Maybe your project has not been approved "
+"yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/archive-listing.php:63
+msgid "All Posted Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/archive-listing.php:64
+#, php-format
+msgid "Latest Posted Auctions in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/archive-listing.php:84
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:351
+msgid "No listings posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/archive.php:41
+#, php-format
+msgid "Daily Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/archive.php:43
+#, php-format
+msgid "Monthly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/archive.php:45
+#, php-format
+msgid "Yearly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/archive.php:47
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/autosuggest.php:105
+msgid "No results found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:4
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:27
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:42
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:27
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:28
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:43
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:28
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:29
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:44
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:29
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/comments.php:52
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:26
+msgid "Begin to search by typing here..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:28
+msgid "Search for..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:29
+msgid "Near location..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:199
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2657
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2662
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2668
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:760
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1097
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1542
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1939
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2629
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:200
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:760
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1097
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1542
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1939
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2629
+msgid "No"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:228
+msgid "Valid For"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:229
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2644
+msgid "Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:230
+msgid "Order"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:238
+msgid "Expires in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:239
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2696
+msgid "Featured"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:240
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:241
+msgid "Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:292
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2702
+msgid "Expired"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:294
+#, php-format
+msgid "%s hours, %s min, %s sec"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:297
+msgid "days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:297
+msgid "day"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:298
+#, php-format
+msgid "%s %s, %s hours, %s min"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:580
+msgid "Select"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:667
+msgid "Posted on"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:667
+msgid "by"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:673
+msgid "Read More"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1398
+msgid "Posted in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1399
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:119
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:579
+msgid "Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1402
+msgid "not defined"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1405
+msgid "Views"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1500
+msgid "User Rating:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1515
+msgid "Not defined"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1898
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:63
+msgid "- watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1902
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:64
+msgid "+ watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1915
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:35
+msgid "Post Review"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1921
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2246
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:20
+msgid "Edit Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1934
+msgid "Posted in:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:1935
+msgid "Located in:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2185
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:75
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2192
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:82
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2199
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:89
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2199
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:89
+msgid "(Edit)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2242
+msgid "Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2243
+msgid "Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2244
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2247
+msgid "Add New Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2245
+msgid "New Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2248
+msgid "Search Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2267
+msgid "Payment Plans"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2268
+msgid "Payment Plan"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2269
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2272
+msgid "Add New Plan"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2270
+msgid "New Plan"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2271
+msgid "Edit Plan"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2273
+msgid "Search Plans"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2289
+msgid "Listing Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2292
+msgid "Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2639
+msgid "Display Order"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2650
+msgid "Valid for"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2656
+msgid "HomePage Featured"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2661
+msgid "Search Featured"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2667
+msgid "Recurring?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2708
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:16
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:142
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:607
+msgid "Website"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2713
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:593
+msgid "Address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2720
+msgid "Youtube Link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:2738
+msgid "Expires On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3497
+#, php-format
+msgid "Welcome, %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3501
+msgid "Active Listings:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3506
+msgid "Expired Listings:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3511
+msgid "Reviews Posted:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3516
+msgid "Watchlist Items:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3529
+msgid "My Account Menu"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3532
+msgid "My Account Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3533
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:47
+msgid "Post New Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3534
+msgid "Watch List"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3535
+msgid "Personal Info"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3536
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/all_posted_items.php:27
+msgid "All Live Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3537
+msgid "Pending Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3538
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/expired_listings.php:27
+msgid "Expired Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3539
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:27
+msgid "My Reviews"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3712
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3714
+msgid "The sidebar area of the single blog post"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3725
+msgid "Buzzler - Stretch Wide MainPage Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3727
+msgid ""
+"This sidebar is site wide stretched in home page, just under the slider/menu."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3737
+msgid "Other Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3739
+msgid "The sidebar area of any other page than the defined ones"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3750
+msgid "Home Page Sidebar - Right"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3752
+msgid "The right sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3763
+msgid "Home Page Sidebar - Left"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3765
+msgid "The left sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3775
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3777
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3786
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3788
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3797
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3799
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3808
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3810
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3820
+msgid "Buzzler - Listing Single Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3822
+msgid "The sidebar of the single listing page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3831
+msgid "Buzzler - HomePage Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/functions.php:3833
+msgid "The sidebar for the main page, just under the slider."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:34
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:244
+msgid "Wp-Admin"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:248
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:131
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:464
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:140
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:180
+msgid "Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:275
+msgid "Post New"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:282
+msgid "Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:294
+msgid "MyAccount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:295
+msgid "Log Out"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:305
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:133
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:466
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:78
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:90
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:136
+msgid "Register"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:306
+msgid "Log In"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:331
+msgid "See Listings Map"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/header.php:332
+msgid "Submit New Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/latest-posted-listings.php:15
+msgid "Latest Posted Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/latest-posted-listings.php:47
+msgid "Sorry, there are no posted listings yet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/listing-reviews.php:54
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:185
+msgid "There are no reviews posted yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:98
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:615
+msgid "Listing Rating:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:100
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:617
+#, php-format
+msgid "%s reviews"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:104
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:621
+msgid "Posted In:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:110
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:627
+msgid "Located In:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:116
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:633
+msgid "Street Address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:122
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:639
+msgid "Website:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:144
+msgid "Files:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:201
+msgid "Claim Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:210
+msgid "Remove from watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:214
+msgid "Add to watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:218
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:332
+msgid "Write Review"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:281
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:724
+msgid "Listing Overview"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:288
+msgid "Job Videos"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:321
+msgid "No videos attached with this job."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:341
+msgid "Reviews"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:354
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:737
+msgid "Show Full Map"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/single-listing.php:421
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:804
+msgid "Photo Gallery"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/taxonomy.php:65
+msgid "All Posted Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/taxonomy.php:66
+#, php-format
+msgid "Latest Posted Items in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/taxonomy.php:95
+msgid "No items posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:12
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:230
+msgid "Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:14
+msgid "Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:20
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:24
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:26
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:32
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:33
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:34
+msgid "Cancel reply"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/write-review.php:66
+msgid "Rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:30
+msgid "Buzzler"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:31
+msgid "Site Summary"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:32
+msgid "General Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:33
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:176
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:266
+msgid "Email Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:34
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2628
+msgid "Pricing Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:35
+msgid "Custom Pricing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:36
+msgid "Custom Fields"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:37
+msgid "Images Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:38
+msgid "Payment Gateways"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:40
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1537
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:41
+msgid "Advertising"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:42
+msgid "Claims"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:44
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1096
+msgid "Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:45
+msgid "Info Stuff"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:195
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:203
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:211
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:220
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:229
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:238
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:247
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:256
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:807
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:816
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:826
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:838
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:849
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1111
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1119
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1395
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1403
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1411
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1419
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1561
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1568
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1575
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1583
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1957
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1965
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1973
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1981
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2665
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2686
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2702
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2712
+msgid "Settings saved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:267
+msgid "New User Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:268
+msgid "New User Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:270
+msgid "Post Item (Not Approved) Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:271
+msgid "Post Item (Auto Approved) Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:272
+msgid "Post Item (Not Approved) Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:273
+msgid "Post Item (Auto Approved) Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:275
+msgid "Claim Listing Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:287
+msgid ""
+"This email will be received by the admin when someone requests a listing "
+"claim. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:300
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:364
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:429
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:493
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:554
+msgid "Enable this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:306
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:370
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:435
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:499
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:560
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:650
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:704
+msgid "Email Subject:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:314
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:378
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:443
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:507
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:568
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:658
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:712
+msgid "Email Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:324
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:388
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:453
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:517
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:579
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:668
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:722
+msgid "Here is a list of tags you can use in this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:326
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:390
+msgid "username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:327
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:391
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:456
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:519
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:581
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:673
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:726
+msgid "the link to your user login page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:328
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:392
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:457
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:520
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:582
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:674
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:727
+msgid "your website's name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:329
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:393
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:458
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:521
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:583
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:675
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:728
+msgid "your website's main address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:330
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:394
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:459
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:522
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:584
+msgid "your website's my account link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:331
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:395
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:460
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:523
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:585
+msgid "item's title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:332
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:396
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:461
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:524
+msgid "link for the new item"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:340
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:404
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:469
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:532
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:594
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:630
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:683
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:736
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:998
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1035
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1079
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1152
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1182
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1448
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1473
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1497
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1521
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1679
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1743
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1767
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1797
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2026
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2056
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2086
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2768
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2802
+msgid "Save Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:351
+msgid ""
+"This email will be received by your users after posting a new item on your "
+"website if the item is automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:418
+msgid ""
+"This email will be received by your users after posting a new item on your "
+"website if the item is not automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:455
+msgid "item owner username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:482
+msgid ""
+"This email will be received by the admin when someone posts an item on the "
+"website to be approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:543
+msgid ""
+"This email will be received by the admin when someone posts an item on the "
+"website. This email will be received if the the item is automatically "
+"approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:586
+msgid "link for the new listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:640
+msgid ""
+"This email will be received by all new users who register on your website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:670
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:724
+msgid "your new username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:671
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:725
+msgid "your new user's email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:672
+msgid "your new user's password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:694
+msgid ""
+"This email will be received by the admin when a new user registers on the "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:758
+msgid "General Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:858
+msgid "Main Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:859
+msgid "Facebook Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:860
+msgid "Twitter Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:872
+msgid "Enable limit for listings:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:878
+msgid "Limit Listings To:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:890
+msgid "Enable big main menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:897
+msgid "Enable claim listing:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:904
+msgid "Show views in each listing page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:910
+msgid "Admin approves each listing:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:917
+msgid "Enable Frontpage Slider:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:923
+msgid "Enable Main Menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:929
+msgid "Enable Stretch Area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:935
+msgid "Enable Blog:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:943
+msgid "Enable Locations:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:950
+msgid "Only admin will post listings:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:957
+msgid "Normal listing max period:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:963
+msgid "Featured listing max period:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:970
+msgid "listings per page in Advanced Search:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:977
+msgid "Slug for listing Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:983
+msgid "Slug for Location Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:989
+msgid "Slug for Category Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1016
+msgid "Enable Facebook Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1022
+msgid "Facebook App ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1028
+msgid "Facebook Secret Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1050
+msgid "Enable Twitter Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1056
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1062
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1070
+msgid "Callback URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1127
+msgid "Google Analytics"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1128
+msgid "Other Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1138
+msgid "Enable Google Analytics:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1144
+msgid "Analytics Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1168
+msgid "Enable Other Tracking:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1174
+msgid "Other Tracking Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1200
+msgid "Claims on Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1225
+msgid "Claim Approved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1237
+msgid "Claim Rejected!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1245
+msgid "Unsolved Claims"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1246
+msgid "Solved Claims"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1382
+msgid "Advertising Spaces"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1426
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1596
+msgid "HomePage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1427
+msgid "Listing Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1428
+msgid "Category Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1429
+msgid "Single Blog/Normal Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1435
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1460
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1484
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1508
+msgid "Above the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1441
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1466
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1490
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1514
+msgid "Below the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1597
+msgid "Header"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1598
+msgid "Footer"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1599
+msgid "Change Colors"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1608
+msgid "Color for background:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1636
+msgid "Color for footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1643
+msgid "Color for text footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1650
+msgid "Color for top links:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1656
+msgid "Color for top links(hover):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1663
+msgid "Color for search bar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1670
+msgid "Color for main slider:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1695
+msgid "The layout of the homepage."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1696
+msgid "Choose from the home page layouts available:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1700
+msgid "Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1708
+msgid "Content + Left Sidebar + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1716
+msgid "Left Sidebar + Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1724
+msgid "Left Sidebar + Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1732
+msgid "Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1758
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1759
+msgid "Logo URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1781
+msgid "This will appear in the left side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1782
+msgid "Left side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1788
+msgid "This will appear in the right side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:1789
+msgid "Right side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2004
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2041
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2071
+msgid "Enable:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2010
+msgid "PayPal Enable Sandbox:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2016
+msgid "PayPal Email Address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2047
+msgid "Payza/Alertpay Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2077
+msgid "MoneyBookers Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2630
+msgid "Comma (,)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2630
+msgid "Point (.)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2631
+msgid "In front of sum (eg: $50)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2631
+msgid "After the sum (eg: 50$)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2720
+msgid "Main Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2721
+msgid "Listing Fees"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2732
+msgid "Site currency:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2739
+msgid "Currency symbol:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2745
+msgid "Currency symbol position:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2752
+msgid "Decimals sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2758
+msgid "Thousands sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2785
+msgid "Listing Fee (base fee):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2791
+msgid "Listing Fee (featured fee):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2820
+msgid "Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2832
+msgid "Main Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2833
+msgid "From SiteMile Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2842
+msgid "Buzzler Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2847
+msgid "Buzzler Latest Release:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2852
+msgid "WordPress Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2858
+msgid "Go to SiteMile official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2863
+msgid "Go to Buzzler's official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2868
+msgid "Go to support forums:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2873
+msgid "Contact SiteMile Team:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2878
+msgid "Like us on Facebook:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/admin_menu.php:2884
+msgid "Follow us on Twitter:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:196
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:247
+msgid "Advanced Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:229
+msgid "Order by:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:231
+msgid "Visits"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:249
+msgid "Search Results"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:375
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:369
+msgid "Search Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:392
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:407
+msgid "Filter by Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:393
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:408
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:122
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:581
+msgid "Select Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:397
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:412
+msgid "Filter by Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:398
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:413
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:115
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:588
+msgid "Select Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/advanced_search.php:406
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:441
+msgid "Refine Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/all_categories.php:25
+msgid "All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/all_locations.php:25
+msgid "All Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/blog_posts.php:18
+msgid "All Blog Posts"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/blog_posts.php:38
+msgid "There are no posts."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:17
+#, php-format
+msgid "Claim Listing - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:28
+msgid "Your name cannot be emtpy."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:29
+msgid "Your phone number cannot be emtpy."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:30
+msgid "Your description cannot be empty."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:38
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:95
+msgid "Your request has been sent, and you will be contacted soon."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:66
+msgid "Your name:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:72
+msgid "Your phone:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:78
+msgid "Describe your role:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/claim_listing.php:85
+msgid "Submit Claim"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:279
+msgid "There are no listings."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:306
+msgid "Map Results"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:386
+msgid "Search For"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:398
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:126
+msgid "Address/Zip"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:403
+msgid "Radius"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/listings_map.php:405
+msgid "miles"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:53
+#, php-format
+msgid ""
+"Your maximum number of posts/listings has been reached. You cannot post "
+"anymore listings. <a href=\"%s\">Return to your account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:64
+msgid "Write Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:65
+msgid "Add Photos"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:66
+msgid "Review & Publish"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:105
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:527
+msgid "Your listing title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:112
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:585
+msgid "Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:599
+msgid "Youtube Video Link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:151
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:615
+msgid "Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:161
+msgid "Tags"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:169
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:352
+msgid "Next Step"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:210
+msgid "Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:273
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:535
+msgid "Digital Files"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:350
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:588
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:592
+msgid "Go Back"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:409
+#, php-format
+msgid ""
+"Your listing isn't yet live, the admin needs to approve it. <a href='%s'>Go "
+"to your account</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:425
+msgid "Thank you for posting your item with us."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:428
+msgid "See your listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:442
+msgid "Plan Name:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:447
+msgid "Plan Costs:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:448
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:537
+msgid "FREE"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:452
+msgid "Valid For:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:453
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:462
+msgid "Get it now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:473
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:357
+msgid "Pay by PayPal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:476
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:360
+msgid "Pay by MoneyBookers/Skrill"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:479
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:363
+msgid "Pay by Payza"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:485
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:369
+#, php-format
+msgid "Bank Details: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:507
+msgid "Choose your payment plan from the ones available."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:538
+#, php-format
+msgid "%s for %s days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:547
+msgid "Get Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:555
+msgid "Pay Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new.php:570
+msgid ""
+"There are no payment plans defined. Please ask admin to add payment plans."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new_post.php:55
+msgid "You cannot leave the listing title blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new_post.php:56
+msgid "You cannot leave the listing description blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new_post.php:57
+msgid "You cannot leave the listing category blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new_post.php:58
+msgid "You cannot leave the listing location blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/post_new_post.php:59
+msgid "You cannot leave the listing address/zip blank!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/show_full_map.php:21
+#, php-format
+msgid "Show Full Map - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/mb_mem.php:34
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/moneybookers_listing.php:132
+msgid "Please wait, your order is being processed..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/mb_mem.php:55
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/paypal_mem.php:57
+msgid "Membership Pack"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/moneybookers_listing.php:39
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:168
+msgid "Base Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/moneybookers_listing.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:177
+msgid "Extra Images Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/moneybookers_listing.php:68
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:195
+msgid "Featured Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/gateways/moneybookers_listing.php:91
+msgid "Sealed Bidding Fee"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:81
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:257
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:270
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:89
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:99
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:122
+msgid "Retrieve Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:108
+msgid "Please enter your information here. We will send you a new password."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:114
+msgid "Username or Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:131
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:464
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:140
+msgid "Are you lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:396
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:408
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:64
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:141
+msgid "Login"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:156
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:178
+msgid "Retrieve Error"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:183
+#, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have "
+"the wrong username or e-mail address? <a href=\"%s\">Try again</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:204
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:206
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:286
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:58
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:110
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:207
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:211
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:122
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:217
+msgid "There Was a Problem"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:218
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:295
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:128
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:219
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:296
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:224
+#, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:225
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:302
+msgid "Check your e-mail first, of course"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:226
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:303
+msgid "Click here to login!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:241
+msgid "Key Not Valid"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:256
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:269
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:294
+msgid "<h1>Problem</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:287
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:59
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:290
+#, php-format
+msgid "[%s] Your new password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:300
+msgid "<h1>Success!</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:301
+msgid "Your new password is in the mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:305
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:306
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:388
+msgid "Your session has expired."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:391
+msgid "<strong>Error</strong>: The password field is empty."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:416
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this "
+"page."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:437
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:116
+msgid "Username:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:442
+msgid "Password:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:448
+msgid "Keep me logged in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:456
+msgid "Sign in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:469
+msgid "Password Lost and Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/login.php:469
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:142
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:46
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:57
+msgid "Registration Complete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:59
+msgid "emailed to you"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:60
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:61
+msgid ""
+"Please check your <strong>Junk Mail</strong> if your account information "
+"does not appear within 5 minutes."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:121
+msgid "E-mail:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:129
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:142
+msgid "Password Lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:163
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:175
+msgid "Registration Disabled"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:179
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:180
+msgid "Go back to the blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:205
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:207
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:210
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:215
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:217
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:220
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/register.php:233
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:65
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:69
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:82
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:96
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:108
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:111
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:112
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/login_register/sett.php:128
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/all_posted_items.php:42
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/expired_listings.php:42
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_account.php:40
+msgid "There are no listings yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:282
+#, php-format
+msgid "Edit Listing - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:294
+msgid ""
+"Your listing has been updated and but is not live. The admin must approve it "
+"before it goes live."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:301
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:311
+#, php-format
+msgid ""
+"Your listing has been updated and is live now. <a href=\"%s\"><strong>Click "
+"here</strong></a> to see your listing."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:318
+msgid ""
+"You have added extra options to your listing. In order to publish your "
+"listing you need to pay for the options."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:337
+msgid "Total"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:412
+msgid "Add Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:418
+msgid "Cancel upload"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:422
+msgid "Delete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:650
+msgid "Feature listing?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/edit_listing.php:660
+msgid "Save Listing"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_account.php:27
+msgid "My Latest Posted Listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:159
+msgid "Previous"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/my_reviews.php:175
+msgid "Next"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:28
+msgid "Personal Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:53
+msgid "Passwords do not match!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:75
+msgid "Your profile information was updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:86
+msgid "Profile Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:92
+msgid "New Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:98
+msgid "Repeat Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:104
+msgid "Profile Avatar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:106
+msgid "max file size: 1mb. Formats: jpeg, jpg, png, gif"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/pers_info.php:115
+msgid "Save"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/watchlist.php:27
+msgid "My Watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/my_account/watchlist.php:71
+msgid "There are no listings in your watch list."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/social/social.php:37
+msgid "Connect with:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-category.php:199
+msgid "See More Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-category.php:214
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-location.php:258
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/latest-posted-listings.php:64
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/most-visited-listings.php:69
+msgid "Title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-category.php:219
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-location.php:263
+msgid "Number of Columns"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-category.php:234
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-location.php:276
+msgid "Number of Rows"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-category.php:241
+msgid "Only show categories below"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-category.php:247
+msgid "Categories to show"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-location.php:243
+msgid "See More Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-location.php:283
+msgid "Only show locations below"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/browse-by-location.php:289
+msgid "Locations to show"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/latest-posted-listings.php:11
+msgid "Show latest posted listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/latest-posted-listings.php:13
+msgid "Buzzler - Latest listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/latest-posted-listings.php:49
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/most-visited-listings.php:54
+msgid "Sorry, there are no posted listings yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/latest-posted-listings.php:71
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/most-visited-listings.php:76
+msgid "Show listings limit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/most-visited-listings.php:11
+msgid "Show most viewed listings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\Buzzler/lib/widgets/most-visited-listings.php:13
+msgid "Buzzler - Most viewed listings"
+msgstr ""
